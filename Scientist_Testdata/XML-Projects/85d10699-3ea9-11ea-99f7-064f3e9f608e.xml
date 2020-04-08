@@ -1,0 +1,241 @@
+<?xml version="1.0"?>
+<project volume="50" bpm="120" cut_mode="Beat">
+	<used_chords>aa#CdeFG</used_chords>
+	<user_loops />
+	<parts selected_index="17">
+		<part pitch="0" length_in_beats="16" name="A">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/GlitchAmerica A" volume="50" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (1)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/GlitchAmerica A" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BigMove Bass" volume="50" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (2)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/GlitchAmerica A" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Chipsounds/SwinginGrovezz" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/SwingingShuffle D" volume="50" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/Psykodelayck One" volume="50" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/ClassicDownlifter FX" volume="50" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (3)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/TheFreshness B" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Synth/PitchGlitch Synth" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BigMove Bass" volume="50" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/RetroLead" volume="50" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/ClassicUplifter FX" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (4)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/GlitchAmerica A" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Chipsounds/SwinginGrovezz" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BigMove Bass" volume="50" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/RetroLead" volume="50" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/ClassicUplifter FX" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (5)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/GlitchAmerica A" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Pad/StarlightPad" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BigMove Bass" volume="0" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/RetroLead" volume="50" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Synth/PitchGlitch Synth" volume="50" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (6)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/GlitchAmerica A" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Pad/StarlightPad" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BigMove Bass" volume="0" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/RetroLead" volume="50" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Synth/PitchGlitch Synth" volume="50" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (7)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/GlitchAmerica A" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Pad/StarlightPad" volume="52" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BigMove Bass" volume="0" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/RetroLead" volume="46" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Synth/PitchGlitch Synth" volume="46" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (8)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/GlitchAmerica A" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Pad/StarlightPad" volume="52" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BigMove Bass" volume="0" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/RetroLead" volume="46" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Synth/PitchGlitch Synth" volume="46" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (9)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/GlitchAmerica A" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Pad/StarlightPad" volume="0" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BigMove Bass" volume="0" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/RetroLead" volume="64" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Synth/PitchGlitch Synth" volume="51" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (10)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/GlitchAmerica A" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Pad/StarlightPad" volume="0" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BigMove Bass" volume="0" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/RetroLead" volume="61" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Synth/PitchGlitch Synth" volume="0" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (11)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/GlitchAmerica E" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Pad/StarlightPad" volume="0" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BigMove Bass" volume="0" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/RetroLead" volume="61" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Synth/PitchGlitch Synth" volume="0" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (12)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/TheFreshness F" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Pad/StarlightPad" volume="76" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BigMove Bass" volume="0" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/RetroLead" volume="0" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Synth/PitchGlitch Synth" volume="35" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (13)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/TheFreshness F" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Pad/StarlightPad" volume="0" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BigMove Bass" volume="0" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/RetroLead" volume="23" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Synth/PitchGlitch Synth" volume="36" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (14)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/TheFreshness F" volume="54" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Pad/StarlightPad" volume="28" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BigMove Bass" volume="31" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/RetroLead" volume="23" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Synth/PitchGlitch Synth" volume="36" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (15)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/TheFreshness F" volume="0" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Pad/StarlightPad" volume="0" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BigMove Bass" volume="31" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/RetroLead" volume="36" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Synth/PitchGlitch Synth" volume="0" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (16)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Pad/StarlightPad" volume="37" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Pad/StarlightPad" volume="0" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BigMove Bass" volume="0" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/RetroLead" volume="36" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Synth/PitchGlitch Synth" volume="0" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (17)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Pad/StarlightPad" volume="49" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Pad/StarlightPad" volume="0" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BigMove Bass" volume="0" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/RetroLead" volume="0" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Synth/PitchGlitch Synth" volume="0" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+	</parts>
+</project>

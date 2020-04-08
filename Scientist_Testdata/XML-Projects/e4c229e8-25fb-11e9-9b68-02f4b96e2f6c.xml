@@ -1,0 +1,295 @@
+<?xml version="1.0"?>
+<project volume="96" bpm="189" cut_mode="Beat">
+	<used_chords>aa#CdeFG</used_chords>
+	<user_loops />
+	<parts selected_index="17">
+		<part pitch="0" length_in_beats="32" name="A">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Piano Sigh" volume="61" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit B" volume="93" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Piano Moan" volume="92" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Mighty Pickup A" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Eerie Angel B'" volume="81" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Twisted Verseline" volume="97" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Crazy Talkin" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="0" is_active="1"></effect>
+			</effects>
+			<chord_sequence>ddddddddFFFFFFFFGGGGGGGGGGGGaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (11)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Piano Sigh" volume="61" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit B" volume="93" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Piano Moan" volume="92" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Mighty Pickup A" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Eerie Angel B'" volume="81" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Twisted Verseline" volume="97" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Crazy Talkin" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="0" is_active="1"></effect>
+			</effects>
+			<chord_sequence>ddddddddFFFFFFFFGGGGGGGGeeeeeeee</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (1)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Piano Sigh" volume="61" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit B" volume="93" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Piano Moan" volume="92" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Mighty Pickup A" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Eerie Angel B'" volume="81" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Twisted Verseline" volume="97" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Crazy Talkin" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit C" volume="87" is_active="true" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="0" is_active="1"></effect>
+			</effects>
+			<chord_sequence>ddddddddFFFFFFFFGGGGGGGGGGGGaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (12)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Piano Sigh" volume="61" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit B" volume="93" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Piano Moan" volume="92" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Mighty Pickup A" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Eerie Angel B'" volume="81" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Twisted Verseline" volume="97" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Crazy Talkin" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="0" is_active="1"></effect>
+			</effects>
+			<chord_sequence>edddddddFFFFFFFFGGGGGGGGeeeeeeee</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (2)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Piano Sigh" volume="61" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit B" volume="93" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Piano Moan" volume="92" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Mighty Pickup A" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Eerie Angel B'" volume="81" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Twisted Verseline" volume="97" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Crazy Talkin" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Build B" volume="50" is_active="true" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="0" is_active="1"></effect>
+			</effects>
+			<chord_sequence>ddddddddFFFFFFFFGGGGGGGGGGGGaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (16)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Piano Sigh" volume="61" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit B" volume="93" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Piano Moan" volume="92" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Mighty Pickup A" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Eerie Angel B'" volume="81" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Twisted Verseline" volume="97" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Crazy Talkin" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Build B" volume="50" is_active="true" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="0" is_active="1"></effect>
+			</effects>
+			<chord_sequence>ddddddddFFFFFFFFGGGGGGGGGGGGaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (15)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Piano Sigh" volume="61" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit B" volume="93" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Piano Moan" volume="92" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Mighty Pickup A" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Eerie Angel B'" volume="81" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Twisted Verseline" volume="97" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Crazy Talkin" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Build A" volume="87" is_active="true" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="0" is_active="1"></effect>
+			</effects>
+			<chord_sequence>ddddddddFFFFFFFFGGGGGGGGGGGGaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (14)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Piano Sigh" volume="61" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit B" volume="93" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Piano Moan" volume="92" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Mighty Pickup A" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Eerie Angel B'" volume="81" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Twisted Verseline" volume="97" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Crazy Talkin" volume="50" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="0" is_active="1"></effect>
+			</effects>
+			<chord_sequence>edddddddFFFFFFFFGGGGGGGGeeeeeeee</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (13)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Piano Sigh" volume="61" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit B" volume="93" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Piano Moan" volume="92" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Mighty Pickup A" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Eerie Angel B'" volume="81" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Twisted Verseline" volume="97" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Crazy Talkin" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="0" is_active="1"></effect>
+			</effects>
+			<chord_sequence>ddddddddFFFFFFFFGGGGGGGGGGGGaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (17)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Piano Sigh" volume="61" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit B" volume="93" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Piano Moan" volume="92" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Mighty Pickup A" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Eerie Angel B'" volume="81" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Twisted Verseline" volume="97" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Crazy Talkin" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="0" is_active="1"></effect>
+			</effects>
+			<chord_sequence>ddddddddFFFFFFFFGGGGGGGGGGGGaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (3)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Piano Sigh" volume="61" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit B" volume="93" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Piano Moan" volume="92" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Mighty Pickup A" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Eerie Angel B'" volume="81" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Twisted Verseline" volume="97" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Crazy Talkin" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="0" is_active="1"></effect>
+			</effects>
+			<chord_sequence>ddddddddFFFFFFFFGGGGGGGGGGGGaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (4)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Piano Sigh" volume="61" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit B" volume="93" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Piano Moan" volume="92" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Mighty Pickup A" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Eerie Angel B'" volume="81" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Twisted Verseline" volume="97" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Crazy Talkin" volume="50" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="0" is_active="1"></effect>
+			</effects>
+			<chord_sequence>ddddddddFFFFFFFFGGGGGGGGGGGGaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (5)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Piano Sigh" volume="61" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit B" volume="93" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Piano Moan" volume="92" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Mighty Pickup A" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Eerie Angel B'" volume="81" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Twisted Verseline" volume="97" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Crazy Talkin" volume="50" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="0" is_active="1"></effect>
+			</effects>
+			<chord_sequence>ddddddddFFFFFFFFGGGGGGGGGGGGaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (6)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Piano Sigh" volume="61" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit B" volume="93" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Piano Moan" volume="92" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Mighty Pickup A" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Eerie Angel B'" volume="81" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Twisted Verseline" volume="97" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Crazy Talkin" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="0" is_active="1"></effect>
+			</effects>
+			<chord_sequence>ddddddddFFFFFFFFGGGGGGGGGGGGaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (7)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Piano Sigh" volume="61" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit B" volume="93" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Piano Moan" volume="92" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Mighty Pickup A" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Eerie Angel B'" volume="81" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Twisted Verseline" volume="97" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Crazy Talkin" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="0" is_active="1"></effect>
+			</effects>
+			<chord_sequence>ddddddddFFFFFFFFGGGGGGGGGGGGaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (8)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Piano Sigh" volume="61" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit B" volume="93" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Piano Moan" volume="92" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Mighty Pickup A" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Eerie Angel B'" volume="81" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Twisted Verseline" volume="97" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Crazy Talkin" volume="50" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="0" is_active="1"></effect>
+			</effects>
+			<chord_sequence>ddddddddFFFFFFFFGGGGGGGGGGGGaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (9)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Piano Sigh" volume="61" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit B" volume="93" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Piano Moan" volume="92" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Mighty Pickup A" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Eerie Angel B'" volume="81" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Twisted Verseline" volume="97" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Crazy Talkin" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="0" is_active="1"></effect>
+			</effects>
+			<chord_sequence>ddddddddFFFFFFFFGGGGGGGGGGGGaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (10)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Piano Sigh" volume="61" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit B" volume="93" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Piano Moan" volume="92" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Mighty Pickup A" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Eerie Angel B'" volume="81" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Twisted Verseline" volume="97" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Crazy Talkin" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="0" is_active="1"></effect>
+			</effects>
+			<chord_sequence>ddddddddFFFFFFFFGGGGGGGGGGGGaaaa</chord_sequence>
+		</part>
+	</parts>
+</project>

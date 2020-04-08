@@ -1,0 +1,743 @@
+<?xml version="1.0"?>
+<project volume="70" bpm="115" cut_mode="Beat">
+	<used_chords>aa#CdeFG</used_chords>
+	<user_loops />
+	<parts selected_index="45">
+		<part pitch="0" length_in_beats="4" name="a1">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Bass/80s_Bass" volume="13" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Circus_Set G" volume="10" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Fx/Drum_FX" volume="7" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Pad/Sidechainer" volume="9" is_active="true" />
+				<channel loop="" volume="97" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">020000000BAB8A45A82D233E</effect>
+			</effects>
+			<chord_sequence>aaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="4" name="b1">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Bass/80s_Bass" volume="21" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Circus_Set G" volume="18" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Fx/Drum_FX" volume="15" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Pad/Sidechainer" volume="33" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">0200000000803B465E911D3F</effect>
+			</effects>
+			<chord_sequence>CCCC</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="4" name="c1">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Bass/80s_Bass" volume="44" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Circus_Set G" volume="24" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Fx/Drum_FX" volume="21" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Pad/Sidechainer" volume="50" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">020000000BAB8A45A82D233E</effect>
+			</effects>
+			<chord_sequence>eeee</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="4" name="d1">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Bass/80s_Bass" volume="66" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Circus_Set G" volume="34" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Fx/Drum_FX" volume="36" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Pad/Sidechainer" volume="65" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">0000000000D0364600000040</effect>
+			</effects>
+			<chord_sequence>GGGG</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="e1">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Bass/80s_Bass" volume="66" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Circus_Set A" volume="34" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Face_Off C" volume="30" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Pad/Chill_Out" volume="65" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">020000000BAB8A45A82D233E</effect>
+			</effects>
+			<chord_sequence>aaaaCCCCeeeeGGGG</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="f1">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Bass/80s_Bass" volume="69" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Circus_Set A" volume="28" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Face_Off C" volume="20" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Pad/Chill_Out" volume="78" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">0000000000D0364600000040</effect>
+			</effects>
+			<chord_sequence>GGGGGGGGeeeeeeeeCCCCCCCCaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="4" name="g1">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Bass/80s_Bass" volume="66" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Circus_Set G" volume="39" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Fx/Drum_FX" volume="35" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Pad/Sidechainer" volume="65" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">0000000000D0364600000040</effect>
+			</effects>
+			<chord_sequence>GGGG</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="4" name="h1">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Bass/80s_Bass" volume="44" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Circus_Set G" volume="22" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Fx/Drum_FX" volume="22" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Pad/Sidechainer" volume="50" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">0000000000D0364600000040</effect>
+			</effects>
+			<chord_sequence>eeee</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="4" name="i1">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Bass/80s_Bass" volume="21" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Circus_Set G" volume="18" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Fx/Drum_FX" volume="15" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Pad/Sidechainer" volume="33" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">0000000000D0364600000040</effect>
+			</effects>
+			<chord_sequence>CCCC</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="4" name="j1">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Bass/80s_Bass" volume="13" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Circus_Set G" volume="10" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Fx/Drum_FX" volume="7" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Pad/Sidechainer" volume="9" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">0000000000D0364600000040</effect>
+			</effects>
+			<chord_sequence>aaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="4" name="a2">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Bass/80s_Bass" volume="13" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Circus_Set G" volume="10" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Fx/Drum_FX" volume="7" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Pad/Sidechainer" volume="9" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Big_Chord" volume="9" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">020000000BAB8A45A82D233E</effect>
+			</effects>
+			<chord_sequence>aaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="4" name="b2">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Bass/80s_Bass" volume="21" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Circus_Set G" volume="18" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Fx/Drum_FX" volume="29" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Pad/Sidechainer" volume="33" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Big_Chord" volume="21" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">0200000000803B465E911D3F</effect>
+			</effects>
+			<chord_sequence>CCCC</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="4" name="c2">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Bass/80s_Bass" volume="44" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Circus_Set G" volume="26" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Fx/Drum_FX" volume="26" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Pad/Sidechainer" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Big_Chord" volume="31" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">020000000BAB8A45A82D233E</effect>
+			</effects>
+			<chord_sequence>eeee</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="4" name="d2">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Bass/80s_Bass" volume="66" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Circus_Set G" volume="31" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Fx/Drum_FX" volume="29" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Pad/Sidechainer" volume="65" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Big_Chord" volume="32" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">0000000000D0364600000040</effect>
+			</effects>
+			<chord_sequence>GGGG</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="e2">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Bass/80s_Bass" volume="66" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Circus_Set A" volume="31" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Face_Off C" volume="21" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Pad/Chill_Out" volume="65" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Chord_Punch" volume="31" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">020000000BAB8A45A82D233E</effect>
+			</effects>
+			<chord_sequence>aaaaCCCCeeeeGGGG</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="f2">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Bass/80s_Bass" volume="69" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Circus_Set A" volume="28" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Face_Off C" volume="22" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Pad/Chill_Out" volume="78" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Chord_Punch" volume="38" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">0000000000D0364600000040</effect>
+			</effects>
+			<chord_sequence>GGGGGGGGeeeeeeeeCCCCCCCCaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="4" name="g2">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Bass/80s_Bass" volume="66" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Circus_Set G" volume="31" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Fx/Drum_FX" volume="26" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Pad/Sidechainer" volume="65" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Big_Chord" volume="31" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">0000000000D0364600000040</effect>
+			</effects>
+			<chord_sequence>GGGG</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="4" name="h2">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Bass/80s_Bass" volume="44" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Circus_Set G" volume="24" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Fx/Drum_FX" volume="26" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Pad/Sidechainer" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Big_Chord" volume="25" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">0000000000D0364600000040</effect>
+			</effects>
+			<chord_sequence>eeee</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="4" name="i2">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Bass/80s_Bass" volume="21" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Circus_Set G" volume="18" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Fx/Drum_FX" volume="18" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Pad/Sidechainer" volume="33" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Big_Chord" volume="18" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">0000000000D0364600000040</effect>
+			</effects>
+			<chord_sequence>CCCC</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="4" name="j2">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Bass/80s_Bass" volume="13" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Circus_Set G" volume="10" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Fx/Drum_FX" volume="7" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Pad/Sidechainer" volume="9" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Big_Chord" volume="8" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">0000000000D0364600000040</effect>
+			</effects>
+			<chord_sequence>aaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="8" name="k1">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Bass/Dirrty_Bazz" volume="13" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Circus_Set B" volume="10" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Fx/Vocoder_Filter" volume="7" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Pad/Phasing" volume="9" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Chord_OR" volume="8" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">0000000000D0364600000040</effect>
+			</effects>
+			<chord_sequence>aCeGGeCa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="8" name="l1">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Bass/Dirrty_Bazz" volume="24" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Circus_Set B" volume="20" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Fx/Vocoder_Filter" volume="27" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Pad/Phasing" volume="28" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Chord_OR" volume="95" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">0000000000D0364600000040</effect>
+			</effects>
+			<chord_sequence>aCeGGeCa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="8" name="m1">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Bass/Dirrty_Bazz" volume="43" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Circus_Set B" volume="31" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Fx/Vocoder_Filter" volume="55" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Pad/Phasing" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Chord_OR" volume="45" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">0000000000D0364600000040</effect>
+			</effects>
+			<chord_sequence>aCeGGeCa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="8" name="n1">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Bass/Dirrty_Bazz" volume="60" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Circus_Set B" volume="42" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Fx/Vocoder_Filter" volume="74" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Pad/Phasing" volume="70" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Chord_OR" volume="45" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">0000000000D0364600000040</effect>
+			</effects>
+			<chord_sequence>aCeGGeCa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="o1">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Bass/Dirrty_Bazz" volume="60" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Circus_Set G" volume="41" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Fx/Boom_Fx" volume="74" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Pad/Scratch_Pad" volume="70" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Chord_OR" volume="45" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">0000000000D0364600000040</effect>
+			</effects>
+			<chord_sequence>aaaaCCCCeeeeGGGG</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="p1">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Bass/Dirrty_Bazz" volume="60" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Circus_Set G" volume="39" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Fx/Boom_Fx" volume="74" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Pad/Scratch_Pad" volume="70" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Chord_OR" volume="45" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">0000000000D0364600000040</effect>
+			</effects>
+			<chord_sequence>aaaaCCCCeeeeGGGGGGGGeeeeCCCCaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="8" name="q1">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Bass/Dirrty_Bazz" volume="60" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Circus_Set B" volume="34" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Fx/Vocoder_Filter" volume="74" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Pad/Phasing" volume="70" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Chord_OR" volume="45" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">0000000000D0364600000040</effect>
+			</effects>
+			<chord_sequence>GeCaaCeG</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="8" name="r1">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Bass/Dirrty_Bazz" volume="43" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Circus_Set B" volume="27" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Fx/Vocoder_Filter" volume="55" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Pad/Phasing" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Chord_OR" volume="45" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">0000000000D0364600000040</effect>
+			</effects>
+			<chord_sequence>GeCaaCeG</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="8" name="s1">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Bass/Dirrty_Bazz" volume="24" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Circus_Set B" volume="18" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Fx/Vocoder_Filter" volume="27" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Pad/Phasing" volume="28" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Chord_OR" volume="27" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">0000000000D0364600000040</effect>
+			</effects>
+			<chord_sequence>GeCaaCeG</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="8" name="t1">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Bass/Dirrty_Bazz" volume="13" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Circus_Set B" volume="10" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Fx/Vocoder_Filter" volume="7" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Pad/Phasing" volume="9" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Chord_OR" volume="8" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">0000000000D0364600000040</effect>
+			</effects>
+			<chord_sequence>GeCaaCeG</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="8" name="u1">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Bass/Dirrty_Bazz" volume="13" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Circus_Set B" volume="10" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Fx/Vocoder_Filter" volume="7" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Pad/Phasing" volume="9" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Chord_OR" volume="8" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">0000000000D0364600000040</effect>
+			</effects>
+			<chord_sequence>GeCaaCeG</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="8" name="v1">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Bass/Dirrty_Bazz" volume="24" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Circus_Set B" volume="19" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Fx/Vocoder_Filter" volume="27" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Pad/Phasing" volume="28" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Chord_OR" volume="21" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">0000000000D0364600000040</effect>
+			</effects>
+			<chord_sequence>aCeGGeCa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="8" name="w1">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Bass/Dirrty_Bazz" volume="43" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Circus_Set B" volume="27" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Fx/Vocoder_Filter" volume="55" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Pad/Phasing" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Chord_OR" volume="31" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">0000000000D0364600000040</effect>
+			</effects>
+			<chord_sequence>aCeGGeCa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="8" name="x1">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Bass/Dirrty_Bazz" volume="60" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Circus_Set B" volume="31" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Fx/Vocoder_Filter" volume="74" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Pad/Phasing" volume="70" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Chord_OR" volume="45" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">0000000000D0364600000040</effect>
+			</effects>
+			<chord_sequence>aCeGGeCa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="e3">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Bass/80s_Bass" volume="66" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Circus_Set A" volume="29" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Face_Off C" volume="25" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Pad/Chill_Out" volume="65" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Chord_Punch" volume="31" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">020000000BAB8A45A82D233E</effect>
+			</effects>
+			<chord_sequence>aaaaCCCCeeeeGGGG</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="f3">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Bass/80s_Bass" volume="69" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Circus_Set A" volume="26" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Face_Off C" volume="19" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Pad/Chill_Out" volume="78" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Chord_Punch" volume="38" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">0000000000D0364600000040</effect>
+			</effects>
+			<chord_sequence>GGGGGGGGeeeeeeeeCCCCCCCCaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="e4">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Bass/80s_Bass" volume="66" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Circus_Set A" volume="27" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Face_Off C" volume="21" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Pad/Chill_Out" volume="65" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Chord_Punch" volume="31" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">020000000BAB8A45A82D233E</effect>
+			</effects>
+			<chord_sequence>aaaaCCCCeeeeGGGG</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="y1">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Bass/80s_Bass" volume="69" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Circus_Set A" volume="18" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Face_Off C" volume="17" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Pad/Chill_Out" volume="78" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Chord_Punch" volume="38" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Smooth" volume="50" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">0000000000D0364600000040</effect>
+			</effects>
+			<chord_sequence>GGGGGGGGeeeeeeeeCCCCCCCCaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="y2">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Bass/80s_Bass" volume="51" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Circus_Set A" volume="16" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Face_Off C" volume="14" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Pad/Chill_Out" volume="58" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Chord_Punch" volume="23" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Smooth" volume="50" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">0000000000D0364600000040</effect>
+			</effects>
+			<chord_sequence>GGGGGGGGeeeeeeeeCCCCCCCCaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="y3">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Bass/80s_Bass" volume="34" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Circus_Set A" volume="22" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Face_Off C" volume="12" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Pad/Chill_Out" volume="31" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Chord_Punch" volume="23" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Smooth" volume="34" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">0000000000D0364600000040</effect>
+			</effects>
+			<chord_sequence>GGGGGGGGeeeeeeeeCCCCCCCCaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="y4">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Bass/80s_Bass" volume="15" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Circus_Set A" volume="3" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Face_Off C" volume="9" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Pad/Chill_Out" volume="5" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Chord_Punch" volume="9" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Smooth" volume="34" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">0000000000D0364600000040</effect>
+			</effects>
+			<chord_sequence>GGGGGGGGeeeeeeeeCCCCCCCCaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="z1">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Bass/80s_Bass" volume="15" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Circus_Set A" volume="7" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Face_Off C" volume="3" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Pad/Chill_Out" volume="5" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Chord_Punch" volume="9" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Smooth" volume="17" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">0000000000D0364600000040</effect>
+			</effects>
+			<chord_sequence>GGGGGGGGeeeeeeeeCCCCCCCCaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="z2">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Bass/80s_Bass" volume="6" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Circus_Set A" volume="7" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Face_Off C" volume="3" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Pad/Chill_Out" volume="5" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Chord_Punch" volume="9" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Smooth" volume="13" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">0000000000D0364600000040</effect>
+			</effects>
+			<chord_sequence>aaaaaaaaCCCCCCCCeeeeeeeeGGGGGGGG</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="z3">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Bass/80s_Bass" volume="6" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Circus_Set A" volume="7" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Face_Off C" volume="3" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Pad/Chill_Out" volume="5" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Chord_Punch" volume="9" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Smooth" volume="12" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">0000000000D0364600000040</effect>
+			</effects>
+			<chord_sequence>aaaaaaaaCCCCCCCCeeeeeeeeGGGGGGGG</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="8" name="end">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Bass/80s_Bass" volume="6" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Circus_Set A" volume="7" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Face_Off C" volume="3" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Pad/Chill_Out" volume="5" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Chord_Punch" volume="9" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Smooth" volume="10" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Fx/Decrease_Fx" volume="4" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">0000000000D0364600000040</effect>
+			</effects>
+			<chord_sequence>aaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="8" name="end (1)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Bass/80s_Bass" volume="6" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Circus_Set A" volume="7" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Face_Off C" volume="3" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Pad/Chill_Out" volume="5" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Chord_Punch" volume="9" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Smooth" volume="2" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Fx/Decrease_Fx" volume="4" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">0000000000D0364600000040</effect>
+			</effects>
+			<chord_sequence>CCCCaaaa</chord_sequence>
+		</part>
+	</parts>
+</project>

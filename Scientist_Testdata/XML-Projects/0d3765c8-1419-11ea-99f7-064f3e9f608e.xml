@@ -1,0 +1,215 @@
+<?xml version="1.0"?>
+<project volume="19" bpm="120" cut_mode="Beat">
+	<used_chords>aa#CdeFG</used_chords>
+	<user_loops />
+	<parts selected_index="15">
+		<part pitch="0" length_in_beats="32" name="A">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Piano Sigh" volume="50" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (1)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Boom Room A" volume="21" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Piano Moan" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Piano Sigh" volume="50" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (2)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Boom Room A" volume="21" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Piano Moan" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Piano Sigh" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (3)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Boom Room A" volume="21" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Piano Moan" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Middle Ground" volume="50" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (4)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Boom Room A" volume="21" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Piano Moan" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Middle Ground" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Eerie Angel E" volume="50" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (5)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Boom Room A" volume="21" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Piano Moan" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Pluck Verseline" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit A" volume="50" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (6)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Boom Room A" volume="21" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Piano Moan" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Pluck Verseline" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit B" volume="50" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (7)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Knarz Hook" volume="21" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Piano Moan" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Pluck Verseline" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit C" volume="50" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (8)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Knarz Hook" volume="21" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Piano Moan" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Pluck Verseline" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit D" volume="50" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (9)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Knarz Hook" volume="21" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Piano Moan" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Pluck Verseline" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit E" volume="50" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (10)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Knarz Hook" volume="21" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Piano Moan" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Pluck Verseline" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit F" volume="50" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (11)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Knarz Hook" volume="21" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Eerie Angel C" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Dark Rezo B" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit G" volume="50" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (12)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Knarz Hook" volume="21" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Dark Rezo A" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Circular Fury B" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit H" volume="50" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (13)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Knarz Hook" volume="21" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Eerie Angel D" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Weird Cymb A" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit I" volume="50" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (14)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Knarz Hook" volume="21" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Piano Moan" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Weird Cymb B" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit J" volume="50" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (17)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Knarz Hook" volume="21" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Piano Moan" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Twisted Verseline" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Tail" volume="50" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+	</parts>
+</project>

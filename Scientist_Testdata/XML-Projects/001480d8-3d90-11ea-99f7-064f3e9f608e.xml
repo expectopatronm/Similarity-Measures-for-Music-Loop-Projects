@@ -1,0 +1,257 @@
+<?xml version="1.0"?>
+<project volume="48" bpm="122" cut_mode="Beat">
+	<used_chords>CcFfGa</used_chords>
+	<user_loops>
+		<loop id="e434f081-9e5a-4589-b16f-efb4405dbda9" name="recording 1" bpm="122" length_in_beats="32" path="file://./user_loops/recording%201.mmjraw" />
+		<loop id="108214ef-2c94-45e4-99eb-ed03d511632e" name="recording 2" bpm="122" length_in_beats="32" path="file://./user_loops/recording%202.mmjraw" />
+	</user_loops>
+	<parts selected_index="18">
+		<part pitch="0" length_in_beats="32" name="A">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Keys/Houseglass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/GlitchAmerica E" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (1)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Keys/Houseglass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums Solo/Drake E" volume="81" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (2)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Keys/Houseglass" volume="100" bpm_factor="2" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums Solo/Drake E" volume="74" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums Solo/Drake F" volume="91" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (3)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Keys/Houseglass" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums Solo/Sticky I" volume="77" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums Solo/Drake F" volume="78" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Pad/Tubing" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (4)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Keys/Houseglass" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums Solo/Drake E" volume="77" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums Solo/Drake F" volume="78" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Pad/Tubing" volume="78" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Sequence/Uppson" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (5)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Keys/Houseglass" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums Solo/Drake E" volume="72" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums Solo/Drake F" volume="74" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Pad/Tubing" volume="74" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Sequence/Uppson" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Synth/Haller" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (6)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Keys/Houseglass" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums Solo/Drake E" volume="76" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums Solo/Drake F" volume="76" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Pad/Tubing" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Sequence/Uppson" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Synth/Haller" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Absorber" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (7)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Keys/Houseglass" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums Solo/Drake E" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums Solo/Drake F" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Pad/Tubing" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Sequence/Uppson" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Synth/Haller" volume="81" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Absorber" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums/Tonga D" volume="100" is_active="true" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (8)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Keys/Houseglass" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums Solo/Drake E" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums Solo/Drake F" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Pad/Tubing" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Sequence/Uppson" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Synth/Haller" volume="86" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Absorber" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums/Tonga D" volume="64" is_active="true" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (9)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Keys/Houseglass" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums Solo/Drake E" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums Solo/Drake F" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Pad/Tubing" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Sequence/Uppson" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Synth/Haller" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Absorber" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums/Tonga D" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (10)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Keys/Houseglass" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums Solo/Drake E" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums Solo/Drake F" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Pad/Tubing" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Sequence/Uppson" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Synth/Haller" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Absorber" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums/Tonga D" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="4" name="A (11)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Keys/Houseglass" volume="26" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums Solo/Drake E" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums Solo/Drake F" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Pad/Tubing" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Sequence/Uppson" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Synth/Haller" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Absorber" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums/Tonga D" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="4" name="A (14)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Keys/Houseglass" volume="52" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums Solo/Drake E" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums Solo/Drake F" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Pad/Tubing" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Sequence/Uppson" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Synth/Haller" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Absorber" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums/Tonga D" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="8" name="A (13)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Keys/Houseglass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums Solo/Drake E" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums Solo/Drake F" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Pad/Tubing" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Sequence/Uppson" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Synth/Haller" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Absorber" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums/Tonga D" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (12)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Keys/Houseglass" volume="35" bpm_factor="2" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums Solo/Drake E" volume="72" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums Solo/Drake F" volume="74" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Pad/Tubing" volume="97" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Sequence/Uppson" volume="72" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Synth/Haller" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Absorber" volume="78" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums/Tonga D" volume="82" is_active="true" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (15)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Keys/Houseglass" volume="35" bpm_factor="2" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums Solo/Drake E" volume="72" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums Solo/Drake F" volume="74" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Pad/Tubing" volume="97" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Sequence/Uppson" volume="72" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Synth/Haller" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Absorber" volume="78" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums/Tonga D" volume="82" is_active="true" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (16)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Keys/Houseglass" volume="73" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums Solo/Drake E" volume="72" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums Solo/Drake F" volume="74" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Pad/Tubing" volume="97" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Sequence/Uppson" volume="72" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Synth/Haller" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Absorber" volume="78" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums/Tonga D" volume="74" is_active="true" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (17)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Keys/Houseglass" volume="73" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums Solo/Drake E" volume="72" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums Solo/Drake F" volume="74" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Pad/Tubing" volume="97" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Sequence/Uppson" volume="72" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Synth/Haller" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Absorber" volume="78" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums/Tonga D" volume="74" is_active="true" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (18)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Keys/Houseglass" volume="73" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/ClassicDownlifter FX" volume="72" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums Solo/Drake F" volume="74" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Pad/Tubing" volume="97" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Sequence/Uppson" volume="72" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Synth/Haller" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Absorber" volume="78" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums/Tonga D" volume="74" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+	</parts>
+</project>

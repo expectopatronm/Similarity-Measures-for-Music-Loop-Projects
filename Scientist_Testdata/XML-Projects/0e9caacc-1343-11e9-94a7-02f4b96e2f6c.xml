@@ -1,0 +1,273 @@
+<?xml version="1.0"?>
+<project volume="0" bpm="126" cut_mode="Beat">
+	<used_chords>aa#CdeFG</used_chords>
+	<user_loops />
+	<parts selected_index="18">
+		<part pitch="0" length_in_beats="4" name="A">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/My_House" volume="57" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects />
+			<chord_sequence>aaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="4" name="A (2)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Smooth" volume="57" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects />
+			<chord_sequence>aaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (1)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Smooth" volume="54" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Boom Room B" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Boom Room B" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Boom Room A" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Digital Rise" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects />
+			<chord_sequence>aaaaaaaaCCCCCCCCeeeeeeeeGGGGGGGG</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (3)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Smooth" volume="54" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Boom Room B" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Boom Room B" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Sequence/Deep_Rain" volume="85" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Fx/Start_Fx" volume="36" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects />
+			<chord_sequence>aaaaaaaaCCCCCCCC</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (4)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Smooth" volume="25" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Boom Room B" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Boom Room B" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Sequence/Deep_Rain" volume="64" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Fx/Start_Fx" volume="22" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Flag_Control A" volume="70" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects />
+			<chord_sequence>aaaaaaaaCCCCCCCCeeeeeeeeGGGGGGGG</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (5)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Smooth" volume="20" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Boom Room B" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Boom Room B" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Sequence/Deep_Rain" volume="56" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Fx/Start_Fx" volume="37" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Flag_Control A" volume="90" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Vocals/Listen Hook A" volume="68" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Mute Button Dancer" volume="86" is_active="true" />
+			</channels>
+			<effects />
+			<chord_sequence>aaaaaaaaCCCCCCCCeeeeeeeeGGGGGGGG</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (6)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Smooth" volume="6" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Boom Room B" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Boom Room B" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Sequence/Deep_Rain" volume="41" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Fx/Start_Fx" volume="37" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Flag_Control B" volume="71" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Vocals/Listen Hook A" volume="68" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/World Stage" volume="100" is_active="true" />
+			</channels>
+			<effects />
+			<chord_sequence>aaaaaaaaCCCCCCCCeeeeeeeeGGGGGGGG</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (7)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Smooth" volume="20" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Boom Room B" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Boom Room B" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Sequence/Deep_Rain" volume="49" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Fx/Start_Fx" volume="20" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Flag_Control B" volume="71" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Vocals/Listen Hook A" volume="68" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Hi Fly Wave" volume="100" is_active="true" />
+			</channels>
+			<effects />
+			<chord_sequence>aaaaaaaaCCCCCCCCeeeeeeeeGGGGGGGG</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (8)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Smooth" volume="20" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Boom Room B" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Boom Room B" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Crazy Talkin" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Fx/Start_Fx" volume="11" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Flag_Control B" volume="71" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Vocals/Listen Hook A" volume="68" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Hi Fly Wave A" volume="100" is_active="true" />
+			</channels>
+			<effects />
+			<chord_sequence>aaaaaaaaCCCCCCCCeeeeeeeeGGGGGGGG</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (9)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Smooth" volume="20" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Boom Room B" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Boom Room B" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Crazy Talkin" volume="75" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Trippin Spider A" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Flag_Control D" volume="40" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Vocals/Listen Hook A" volume="68" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Hi Fly Wave A" volume="100" is_active="true" />
+			</channels>
+			<effects />
+			<chord_sequence>aaaaaaaaCCCCCCCCeeeeeeeeGGGGGGGG</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (10)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Smooth" volume="20" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Boom Room B" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Boom Room B" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Crazy Talkin SpclBld" volume="74" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Trippin Spider A" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Flag_Control D" volume="40" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Vocals/Listen Hook A" volume="68" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Hi Fly Wave B" volume="100" is_active="true" />
+			</channels>
+			<effects />
+			<chord_sequence>aaaaaaaaCCCCCCCCeeeeeeeeGGGGGGGG</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (11)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Smooth" volume="20" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Boom Room B" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Boom Room B" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Crazy Talkin SpclBld" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Trippin Spider A" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Flag_Control D" volume="40" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Vocals/Listen Hook A" volume="68" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Hi Fly Wave B" volume="100" is_active="true" />
+			</channels>
+			<effects />
+			<chord_sequence>aaaaaaaaCCCCCCCC</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (12)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Smooth" volume="20" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Boom Room B" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Boom Room B" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Crazy Talkin SpclBld" volume="75" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Trippin Spider A" volume="88" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Flag_Control D" volume="40" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Vocals/Listen Hook A" volume="68" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Mute Button Dancer" volume="100" is_active="true" />
+			</channels>
+			<effects />
+			<chord_sequence>aaaaaaaaCCCCCCCC</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="8" name="A (13)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Smooth" volume="20" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Boom Room B" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Boom Room B" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Crazy Talkin SpclBld" volume="75" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Trippin Spider A" volume="88" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Flag_Control D" volume="44" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Vocals/Listen Hook A" volume="68" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Mute Button Dancer" volume="100" is_active="true" />
+			</channels>
+			<effects />
+			<chord_sequence>aaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (14)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Smooth" volume="20" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Boom Room B" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Boom Room B" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Crazy Talkin SpclBld" volume="75" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Trippin Spider A" volume="46" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Flag_Control E" volume="90" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Vocals/Listen Hook A" volume="68" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Mute Button Dancer" volume="100" is_active="true" />
+			</channels>
+			<effects />
+			<chord_sequence>aaaaaaaaCCCCCCCCeeeeeeeeGGGGGGGG</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (15)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Pad/Sidechainer" volume="53" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Boom Room B" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Boom Room B" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Crazy Talkin SpclBld" volume="0" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Trippin Spider A" volume="46" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Flag_Control E" volume="90" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Vocals/Listen Hook A" volume="68" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Mute Button Dancer" volume="74" is_active="true" />
+			</channels>
+			<effects />
+			<chord_sequence>aaaaaaaaCCCCCCCCeeeeeeeeGGGGGGGG</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (16)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Pad/Sidechainer" volume="53" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Boom Room B" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Boom Room B" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Crazy Talkin SpclBld" volume="75" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Trippin Spider A" volume="46" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Flag_Control E" volume="90" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Vocals/Listen Hook A" volume="68" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Mute Button Dancer" volume="83" is_active="true" />
+			</channels>
+			<effects />
+			<chord_sequence>aaaaaaaaCCCCCCCCeeeeeeeeGGGGGGGG</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (17)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Pad/Sidechainer" volume="65" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Boom Room B" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Boom Room B" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Crazy Talkin SpclBld" volume="75" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Trippin Spider A" volume="46" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Flag_Control E" volume="90" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Vocals/Listen Hook A" volume="68" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Mute Button Dancer" volume="74" is_active="false" />
+			</channels>
+			<effects />
+			<chord_sequence>aaaaaaaaCCCCCCCCeeeeeeeeGGGGGGGG</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (18)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Pad/Sidechainer" volume="70" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Boom Room B" volume="0" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Boom Room B" volume="0" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Crazy Talkin SpclBld" volume="75" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Trippin Spider A" volume="0" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Flag_Control E" volume="0" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Vocals/Listen Hook A" volume="68" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Mute Button Dancer" volume="74" is_active="false" />
+			</channels>
+			<effects />
+			<chord_sequence>aaaaaaaaCCCCCCCCeeeeeeeeGGGGGGGG</chord_sequence>
+		</part>
+	</parts>
+</project>

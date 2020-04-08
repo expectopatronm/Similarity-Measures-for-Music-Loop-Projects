@@ -1,0 +1,215 @@
+<?xml version="1.0"?>
+<project volume="3" bpm="125" cut_mode="Beat">
+	<used_chords>aa#CdeFG</used_chords>
+	<user_loops />
+	<parts selected_index="0">
+		<part pitch="0" length_in_beats="32" name="Start">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Brummie" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Absorber" volume="50" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="Start 2">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Brummie" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Absorber" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums/Drake A" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums Solo/Sticky I" volume="50" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="Melody">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Brummie" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Absorber" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums/Drake A" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums Solo/Sticky I" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Keys/Pinano" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Sequence/Chordala" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Pad/BubblePad" volume="50" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="development">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Brummie" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Absorber" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Booking" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums Solo/Drake F" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Keys/Pinano" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Pad/Elecmount" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Pad/BubblePad" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaa#a#a#a#CCCCdddd</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="build">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Brummie" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Absorber" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums/Sticky A" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Percussion/AddonBeat A" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Synth/Electral" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Sequence/Chordala" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Pad/BubblePad" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaCCCCFFFFaaaaaaaaCCCCFFFF</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="build 2">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Brummie" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Absorber" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums/Sticky A" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Percussion/AddonBeat A" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Synth/Electral" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Sequence/Uppson" volume="52" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Pad/BubblePad" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>CCCCaaaaFFFFGGGGCCCCaaaaFFFFGGGG</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="blowing synths ">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Brummie" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Absorber" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums/Sticky A" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Keys/Pinano" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Synth/Electral" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Sequence/Uppson" volume="52" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Pad/BubblePad" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>CCCCaaaaFFFFGGGGCCCCaaaaFFFFGGGG</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="drop however melody ">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Brummie" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Absorber" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Booking" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Keys/Pinano" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Synth/Electral" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Sequence/Uppson" volume="52" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Pad/BubblePad" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>CCCCaaaaFFFFGGGGCCCCaaaaFFFFGGGG</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="drop however melody but still bass">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Brummie" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Absorber" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Booking" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Pad/Flightlight" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Percussion/AddonBeat I" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums/Tonga D" volume="52" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Pad/BubblePad" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>CCCCaaaaFFFFGGGGCCCCaaaaFFFFGGGG</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="main part with drop melody ">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Brummie" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Absorber" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Booking" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Pad/Flightlight" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Percussion/AddonBeat I" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums/Tonga D" volume="52" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Synth/Haller" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Synth/Electral" volume="50" is_active="true" />
+			</channels>
+			<chord_sequence>CCCCaaaaFFFFGGGGCCCCaaaaFFFFGGGG</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="main part with drop melody  (1)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Brummie" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Absorber" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Booking" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Pad/Flightlight" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Keys/Pinano" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums/Drake A" volume="52" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Synth/Haller" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Synth/Electral" volume="50" is_active="true" />
+			</channels>
+			<chord_sequence>CCCCaaaaFFFFGGGGCCCCaaaaFFFFGGGG</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="Bass bass ">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Brummie" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Absorber" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums/Drake A" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Booking" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Keys/Pinano" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Sequence/Chordala" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Pad/BubblePad" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="fast bass">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Brummie" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Absorber" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums/Drake A" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Booking" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Keys/Pinano" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Sequence/Chordala" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Pad/BubblePad" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="fast bass (1)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Brummie" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Absorber" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums/Drake A" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Booking" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Keys/Pinano" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Sequence/Chordala" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Pad/BubblePad" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="and melody again with a drop however melody">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Brummie" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Absorber" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums/Drake A" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Booking" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Keys/Pinano" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Synth/Electral" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Pad/Flightlight" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Synth/Haller" volume="50" is_active="true" />
+			</channels>
+			<chord_sequence>aaaaCCCCFFFFGGGGaaaaCCCCFFFFGGGG</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="the ending">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Brummie" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Absorber" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums/Drake A" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Booking" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Keys/Pinano" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Synth/Electral" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Pad/Flightlight" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Synth/Haller" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaCCCCFFFFGGGGaaaaCCCCFFFFGGGG</chord_sequence>
+		</part>
+	</parts>
+</project>

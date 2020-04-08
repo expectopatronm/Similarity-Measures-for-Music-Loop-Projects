@@ -1,0 +1,332 @@
+<?xml version="1.0"?>
+<project volume="50" bpm="117" cut_mode="Beat">
+	<used_chords>CdeFGaA#</used_chords>
+	<user_loops />
+	<parts selected_index="0">
+		<part pitch="0" length_in_beats="8" name="A">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Percussion/AddonBeat A" volume="63" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (1)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Percussion/AddonBeat A" volume="63" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/ChefLead" volume="36" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaeaGaFaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (2)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Percussion/AddonBeat A" volume="63" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/ChefLead" volume="36" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Synth/PitchGlitch Synth" volume="38" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Synth/PitchGlitch Synth" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaeaGaFaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (3)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Percussion/AddonBeat A" volume="63" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/ChefLead" volume="36" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Synth/PitchGlitch Synth" volume="38" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/GlitchAmerica B" volume="50" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaeaGaFaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (4)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Percussion/AddonBeat A" volume="63" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/ChefLead" volume="36" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Synth/PitchGlitch Synth" volume="38" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/GlitchAmerica B" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="31" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaeaGaFaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (5)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Percussion/AddonBeat A" volume="63" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/ChefLead" volume="36" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Synth/PitchGlitch Synth" volume="38" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/GlitchAmerica B" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="31" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums/Drake A" volume="50" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaeaGaFaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (6)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Percussion/AddonBeat A" volume="63" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/ChefLead" volume="36" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Synth/PitchGlitch Synth" volume="38" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/GlitchAmerica B" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="31" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums/Drake A" volume="50" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaeaGaFaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (7)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Percussion/AddonBeat A" volume="63" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/ChefLead" volume="36" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Synth/PitchGlitch Synth" volume="38" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/GlitchAmerica B" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="31" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums/Drake A" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/SwingingShuffle A" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/TheFreshness B" volume="50" is_active="true" />
+			</channels>
+			<chord_sequence>aaaaaaaaeaGaFaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (8)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Sequence/Spacechords" volume="63" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/ChefLead" volume="36" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Synth/PitchGlitch Synth" volume="38" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/GlitchAmerica B" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="31" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums/Drake A" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/SwingingShuffle A" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/TheFreshness B" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaeaGaFaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (9)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Sequence/Spacechords" volume="63" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Synth/Electral" volume="36" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Pad/Elecmount" volume="38" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/GlitchAmerica B" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="31" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums/Drake A" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/SwingingShuffle A" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/TheFreshness B" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaeaGaFaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (10)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Sequence/Spacechords" volume="63" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Synth/Electral" volume="36" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Pad/Elecmount" volume="38" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/GlitchAmerica B" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="31" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums/Drake A" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/SwingingShuffle A" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/TheFreshness B" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaGaeFGaFaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (11)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Sequence/Spacechords" volume="63" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Synth/Electral" volume="36" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Pad/Elecmount" volume="38" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/GlitchAmerica B" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="31" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums/Drake A" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/SwingingShuffle A" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/TheFreshness B" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaGaeFGaFaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (12)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Sequence/Spacechords" volume="63" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Synth/Electral" volume="36" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Pad/BubblePad" volume="38" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/GlitchAmerica B" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Pad/OneLightPad" volume="31" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums/Drake A" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/SwingingShuffle A" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/TheFreshness B" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaGaeFGaFaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (13)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Sequence/Spacechords" volume="63" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Synth/Electral" volume="36" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Pad/BubblePad" volume="38" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/GlitchAmerica B" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Pad/OneLightPad" volume="31" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums Solo/Drake F" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/SwingingShuffle A" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/TheFreshness B" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaGaeFGaFaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (14)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Sequence/Spacechords" volume="63" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Synth/Electral" volume="36" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Pad/BubblePad" volume="38" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/GlitchAmerica B" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Pad/OneLightPad" volume="31" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums Solo/Drake F" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/SwingingShuffle D" volume="28" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/TheFreshness B" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaGaeFGaFaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (15)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Sequence/Spacechords" volume="63" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Synth/Electral" volume="36" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Pad/BubblePad" volume="38" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/WobbleFunTri Bass" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Pad/OneLightPad" volume="31" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums Solo/Drake F" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/SwingingShuffle D" volume="28" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/TheFreshness B" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaGaeFGaFaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (16)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Sequence/Spacechords" volume="63" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Synth/Electral" volume="36" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Pad/BubblePad" volume="38" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/WobbleFunTri Bass" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Pad/OneLightPad" volume="31" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums Solo/Drake F" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/SwingingShuffle D" volume="28" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Synth/Haller" volume="50" is_active="true" />
+			</channels>
+			<chord_sequence>aaaaaaGaeFGaFaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (17)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Sequence/Spacechords" volume="63" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Synth/Electral" volume="36" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Pad/BubblePad" volume="38" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/WobbleFunTri Bass" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Pad/OneLightPad" volume="31" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums Solo/Sticky G" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/SwingingShuffle D" volume="28" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Synth/Haller" volume="50" is_active="true" />
+			</channels>
+			<chord_sequence>aaaaaaGaeFGaFaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (18)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Sequence/Spacechords" volume="63" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Synth/Electral" volume="36" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Percussion/AddonBeat A" volume="38" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/WobbleFunTri Bass" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Pad/OneLightPad" volume="31" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums Solo/Sticky G" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/SwingingShuffle D" volume="28" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Synth/Haller" volume="50" is_active="true" />
+			</channels>
+			<chord_sequence>aaaaaaGaeFGaFaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (19)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Sequence/Spacechords" volume="63" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Synth/Electral" volume="36" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Percussion/AddonBeat A" volume="38" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/WobbleFunTri Bass" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Pad/OneLightPad" volume="31" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums Solo/Sticky G" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/SwingingShuffle D" volume="28" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Synth/Haller" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaGaeFGaFaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (20)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Sequence/Spacechords" volume="63" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Synth/Electral" volume="36" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Percussion/AddonBeat A" volume="38" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/WobbleFunTri Bass" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Pad/OneLightPad" volume="31" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums Solo/Sticky G" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/SwingingShuffle D" volume="28" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Synth/Haller" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaGaeFGaFaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (21)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Sequence/Spacechords" volume="63" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Synth/Electral" volume="36" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Percussion/AddonBeat A" volume="38" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/WobbleFunTri Bass" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Pad/OneLightPad" volume="37" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums Solo/Sticky G" volume="28" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/SwingingShuffle D" volume="9" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Synth/Haller" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaGaeFGaFaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (22)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Sequence/Spacechords" volume="63" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Synth/Electral" volume="36" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Percussion/AddonBeat A" volume="38" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/WobbleFunTri Bass" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Pad/OneLightPad" volume="48" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums Solo/Sticky G" volume="25" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/SwingingShuffle D" volume="0" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Synth/Haller" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaGaeFGaFaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (23)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Sequence/Spacechords" volume="63" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Synth/Electral" volume="36" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Percussion/AddonBeat A" volume="38" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/GlitchAmerica A" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Pad/OneLightPad" volume="36" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums Solo/Sticky G" volume="25" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/TheFreshness B" volume="34" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/TheFreshness F" volume="50" is_active="true" />
+			</channels>
+			<chord_sequence>aaaaaaGaeFGaFaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="8" name="A (24)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Sequence/Spacechords" volume="63" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Synth/Electral" volume="36" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Percussion/AddonBeat A" volume="38" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/GlitchAmerica A" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Pad/OneLightPad" volume="25" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums Solo/Sticky G" volume="25" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/TheFreshness B" volume="34" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/TheFreshness F" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaGa</chord_sequence>
+		</part>
+	</parts>
+</project>

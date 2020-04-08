@@ -1,0 +1,384 @@
+<?xml version="1.0"?>
+<project volume="52" bpm="120" cut_mode="Beat">
+	<used_chords>aa#CdeFG</used_chords>
+	<user_loops />
+	<parts selected_index="28">
+		<part pitch="0" length_in_beats="8" name="A">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Sequence/Uppson" volume="26" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="0" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="24" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="8" name="A (4)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Sequence/Uppson" volume="56" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="19" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="4" name="A (2)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Sequence/Uppson" volume="56" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums Solo/Drake E" volume="22" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="19" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="4" name="A (10)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Sequence/Uppson" volume="56" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums Solo/Drake E" volume="58" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="19" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="8" name="A (9)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Sequence/Uppson" volume="56" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums Solo/Drake E" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="19" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="4" name="A (15)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Sequence/Uppson" volume="0" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums Solo/Drake E" volume="0" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/WobbleFunTri Bass" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="19" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="8" name="A (6)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Sequence/Uppson" volume="68" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Keys/Pinano" volume="34" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="19" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (5)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Sequence/Uppson" volume="68" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Keys/Pinano" volume="34" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums Solo/Drake E" volume="50" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="19" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (7)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Sequence/Uppson" volume="49" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Keys/Pinano" volume="64" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums Solo/Drake E" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Pad/OneLightPad" volume="7" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Synth/Electral" volume="36" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="19" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (8)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Sequence/Uppson" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Keys/Pinano" volume="56" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums Solo/Drake E" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Pad/OneLightPad" volume="7" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Synth/Electral" volume="36" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/RockinDck" volume="50" is_active="true" />
+				<channel loop="" volume="19" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (11)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Sequence/Uppson" volume="40" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Keys/Pinano" volume="20" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums Solo/Drake E" volume="44" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Pad/OneLightPad" volume="7" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Synth/Electral" volume="13" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/RockinDck" volume="4" is_active="true" />
+				<channel loop="" volume="19" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (12)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Sequence/Uppson" volume="19" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Keys/Pinano" volume="8" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums Solo/Drake E" volume="0" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Pad/OneLightPad" volume="0" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Synth/Electral" volume="0" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/RockinDck" volume="0" is_active="true" />
+				<channel loop="" volume="19" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="8" name="A (13)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Sequence/Uppson" volume="5" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Keys/Pinano" volume="43" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums Solo/Drake E" volume="0" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Pad/OneLightPad" volume="0" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Synth/Electral" volume="0" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/RockinDck" volume="0" is_active="true" />
+				<channel loop="" volume="19" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (14)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Sequence/Uppson" volume="30" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Keys/Pinano" volume="77" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Booking" volume="73" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Synth/Haller" volume="57" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums Solo/Drake E" volume="47" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/RockinDck" volume="40" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/GlitchAmerica E" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums/Sticky J" volume="100" is_active="true" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="8" name="A (16)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Sequence/Uppson" volume="30" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Keys/Pinano" volume="77" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Booking" volume="73" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Synth/Haller" volume="57" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums Solo/Drake E" volume="47" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/RockinDck" volume="40" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/GlitchAmerica E" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums/Sticky J" volume="100" is_active="true" />
+			</channels>
+			<chord_sequence>aaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="8" name="A (17)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Sequence/Uppson" volume="18" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Keys/Pinano" volume="54" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Booking" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Synth/Haller" volume="38" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums Solo/Drake E" volume="28" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/RockinDck" volume="18" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/GlitchAmerica E" volume="18" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums/Sticky J" volume="7" is_active="true" />
+			</channels>
+			<chord_sequence>aaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="8" name="A (18)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Sequence/Uppson" volume="18" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Keys/Pinano" volume="54" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Booking" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Synth/Haller" volume="38" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums Solo/Drake E" volume="28" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/RockinDck" volume="0" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/GlitchAmerica E" volume="0" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums/Sticky J" volume="0" is_active="true" />
+			</channels>
+			<chord_sequence>aaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (19)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Sequence/Uppson" volume="18" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Keys/Pinano" volume="54" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Booking" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Synth/Haller" volume="38" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums Solo/Drake E" volume="28" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Pad/Tubing" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/GlitchAmerica E" volume="0" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums/Sticky J" volume="0" is_active="true" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (20)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Sequence/Uppson" volume="16" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Keys/Pinano" volume="15" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Booking" volume="14" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Synth/Haller" volume="31" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums Solo/Drake E" volume="4" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Pad/Tubing" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Pad/BubblePad" volume="0" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums/Sticky J" volume="0" is_active="true" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (21)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Sequence/Uppson" volume="5" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Keys/Pinano" volume="10" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Booking" volume="9" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Synth/Haller" volume="11" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums Solo/Drake E" volume="92" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Pad/Tubing" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Pad/BubblePad" volume="57" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums/Sticky J" volume="0" is_active="true" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (22)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Synth/Electral" volume="42" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Keys/Pinano" volume="11" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Booking" volume="7" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Synth/Haller" volume="23" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums Solo/Drake E" volume="72" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Pad/Tubing" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Pad/BubblePad" volume="57" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Booking" volume="100" is_active="true" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (23)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Synth/Electral" volume="42" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Keys/Pinano" volume="11" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Booking" volume="7" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Synth/Haller" volume="23" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums Solo/Drake E" volume="72" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Pad/Tubing" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Pad/BubblePad" volume="57" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Booking" volume="100" is_active="true" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="4" name="A (25)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Sequence/Uppson" volume="0" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums Solo/Drake E" volume="0" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/WobbleFunTri Bass" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="19" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (26)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Sequence/Uppson" volume="30" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Keys/Pinano" volume="77" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Booking" volume="73" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Synth/Haller" volume="57" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums Solo/Drake E" volume="47" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/RockinDck" volume="40" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/GlitchAmerica E" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums/Sticky J" volume="100" is_active="true" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="8" name="A (27)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Sequence/Uppson" volume="30" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Keys/Pinano" volume="77" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Booking" volume="73" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Synth/Haller" volume="57" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums Solo/Drake E" volume="47" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/RockinDck" volume="40" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/GlitchAmerica E" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums/Sticky J" volume="100" is_active="true" />
+			</channels>
+			<chord_sequence>aaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="8" name="A (28)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Sequence/Uppson" volume="69" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Keys/Pinano" volume="39" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Booking" volume="35" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Synth/Haller" volume="35" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums Solo/Drake E" volume="22" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/RockinDck" volume="16" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/GlitchAmerica E" volume="12" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums/Sticky J" volume="26" is_active="true" />
+			</channels>
+			<chord_sequence>aaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="8" name="A (29)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Sequence/Uppson" volume="18" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Keys/Pinano" volume="19" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Booking" volume="23" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Synth/Haller" volume="0" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums Solo/Drake E" volume="7" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/RockinDck" volume="0" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/GlitchAmerica E" volume="0" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums/Sticky J" volume="7" is_active="true" />
+			</channels>
+			<chord_sequence>aaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="8" name="A (30)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Sequence/Uppson" volume="0" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Keys/Pinano" volume="19" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Booking" volume="0" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Synth/Haller" volume="0" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums Solo/Drake E" volume="0" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/RockinDck" volume="0" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/GlitchAmerica E" volume="0" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums/Sticky J" volume="0" is_active="true" />
+			</channels>
+			<chord_sequence>aaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="8" name="A (31)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Sequence/Uppson" volume="0" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Keys/Pinano" volume="0" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/WobbleFunTri Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Synth/Haller" volume="0" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums Solo/Drake E" volume="0" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/RockinDck" volume="0" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/GlitchAmerica E" volume="0" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums/Sticky J" volume="0" is_active="true" />
+			</channels>
+			<chord_sequence>aaaaaaaa</chord_sequence>
+		</part>
+	</parts>
+</project>

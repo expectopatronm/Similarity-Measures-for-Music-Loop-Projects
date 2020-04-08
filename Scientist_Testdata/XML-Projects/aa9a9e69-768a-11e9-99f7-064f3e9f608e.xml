@@ -1,0 +1,279 @@
+<?xml version="1.0"?>
+<project volume="100" bpm="130" cut_mode="Beat">
+	<used_chords>D#fgG#A#cd</used_chords>
+	<user_loops />
+	<parts selected_index="16">
+		<part pitch="4" length_in_beats="16" name="Intro">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Boom Room B" volume="56" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Piano Sigh" volume="60" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Dark Rezo C" volume="36" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Circular Fury B" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Dark Rezo B" volume="59" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">00000000968E7343B67E0A40</effect>
+			</effects>
+			<chord_sequence>ggggD#D#D#D#ffffffff</chord_sequence>
+		</part>
+		<part pitch="4" length_in_beats="16" name="Serene Suspense A">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Sub Rub" volume="65" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Trippin Spider A" volume="53" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Weird Cymb A" volume="36" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Eerie Angel C" volume="68" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Middle Ground" volume="56" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit D" volume="75" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">00000000968E7343B67E0A40</effect>
+			</effects>
+			<chord_sequence>ggggD#D#D#D#ffffffff</chord_sequence>
+		</part>
+		<part pitch="4" length_in_beats="16" name="Serene Suspense B">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Knarz Hook" volume="65" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Dark Rezo B" volume="53" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Weird Cymb A" volume="36" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Eerie Angel D" volume="71" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Ruin Marble" volume="51" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit I" volume="70" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Weird Cymb A" volume="56" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">00000000968E7343B67E0A40</effect>
+			</effects>
+			<chord_sequence>ggggD#D#D#D#ffffdddd</chord_sequence>
+		</part>
+		<part pitch="4" length_in_beats="16" name="Serene Suspense C">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Boom Room A" volume="65" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Ruin Marble" volume="60" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Weird Cymb A" volume="36" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Hi Fly Wave B" volume="51" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Pluck Verseline" volume="60" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Tail" volume="72" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Weird Cymb B" volume="60" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">00000000968E7343B67E0A40</effect>
+			</effects>
+			<chord_sequence>ggggD#D#D#D#ffffdddd</chord_sequence>
+		</part>
+		<part pitch="4" length_in_beats="16" name="Eerie Build A">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Boom Room B" volume="65" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Ruin Marble" volume="60" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Sting Hookline" volume="47" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Hi Fly Wave B" volume="65" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Pluck Verseline" volume="57" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit C" volume="70" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Trippin Spider A" volume="57" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Weird Cymb B" volume="50" is_active="true" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">00000000968E7343B67E0A40</effect>
+			</effects>
+			<chord_sequence>ggggD#D#D#D#ffffffff</chord_sequence>
+		</part>
+		<part pitch="4" length_in_beats="16" name="Eerie Build B">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Knarz Hook" volume="66" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Pluck Verseline" volume="60" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Sting Hookline" volume="52" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Eerie Angel B" volume="72" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Pluck Verseline" volume="57" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit F" volume="66" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Trippin Spider A" volume="57" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Twisted Verseline" volume="50" is_active="true" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">00000000968E7343B67E0A40</effect>
+			</effects>
+			<chord_sequence>ggggD#D#D#D#ffffcccc</chord_sequence>
+		</part>
+		<part pitch="4" length_in_beats="32" name="World Stage A">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Boom Room B" volume="64" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Crazy Talkin SpclBld" volume="56" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Sting Hookline" volume="46" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Eerie Angel B" volume="66" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Pluck Verseline" volume="57" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit K" volume="67" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Trippin Spider B" volume="57" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Dark Rezo A" volume="47" is_active="true" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">00000000968E7343B67E0A40</effect>
+			</effects>
+			<chord_sequence>ggggD#D#D#D#ddddffffggggD#D#D#D#ddddcccc</chord_sequence>
+		</part>
+		<part pitch="4" length_in_beats="32" name="Loudly Hook A">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Boom Room B" volume="53" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Sting Hookline" volume="56" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Pluck Verseline" volume="78" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/World Stage" volume="65" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Pluck Verseline" volume="57" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit L" volume="69" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Dark Rezo C" volume="57" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Weird Cymb B" volume="47" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">00000000968E7343B67E0A40</effect>
+			</effects>
+			<chord_sequence>G#G#G#G#ccccA#A#A#A#ffffG#G#G#G#ccccA#A#A#A#ffff</chord_sequence>
+		</part>
+		<part pitch="4" length_in_beats="16" name="Loudly Hook B">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Boom Room A" volume="59" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Crazy Talkin" volume="69" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Middle Ground" volume="64" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/World Stage" volume="66" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Pluck Verseline" volume="57" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit G" volume="70" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Dark Rezo C" volume="57" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Weird Cymb B" volume="47" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">00000000968E7343B67E0A40</effect>
+			</effects>
+			<chord_sequence>G#G#G#G#ccccA#A#A#A#ffff</chord_sequence>
+		</part>
+		<part pitch="4" length_in_beats="16" name="Serene Supsense D">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Sub Rub" volume="56" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Trippin Spider B" volume="71" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Dark Rezo B" volume="55" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Hi Fly Wave" volume="62" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit A" volume="70" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">00000000968E7343B67E0A40</effect>
+			</effects>
+			<chord_sequence>ggggD#D#D#D#ffffdddd</chord_sequence>
+		</part>
+		<part pitch="4" length_in_beats="16" name="Serene Suspense E">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Boom Room A" volume="56" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Dark Rezo A" volume="69" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Weird Cymb A" volume="44" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Circular Fury B" volume="54" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit C" volume="68" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Middle Ground" volume="61" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Dark Rezo A" volume="53" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">00000000968E7343B67E0A40</effect>
+			</effects>
+			<chord_sequence>ggggD#D#D#D#ffffdddd</chord_sequence>
+		</part>
+		<part pitch="4" length_in_beats="16" name="Transformation">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Boom Room B" volume="64" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Trippin Spider A" volume="48" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Weird Cymb A" volume="44" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Eerie Angel C" volume="53" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Build B" volume="77" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Pluck Verseline" volume="55" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Trippin Spider B" volume="56" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Trippin Spider B" volume="55" is_active="true" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">00000000968E7343B67E0A40</effect>
+			</effects>
+			<chord_sequence>ggggD#D#D#D#ffffdddd</chord_sequence>
+		</part>
+		<part pitch="4" length_in_beats="16" name="Eerie Build C">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Boom Room A" volume="61" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Crazy Talkin SpclBld" volume="52" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Piano Moan" volume="44" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Circular Fury B" volume="58" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit A" volume="67" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Sting Hookline" volume="56" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Trippin Spider A" volume="61" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">00000000968E7343B67E0A40</effect>
+			</effects>
+			<chord_sequence>ggggD#D#D#D#ffffffff</chord_sequence>
+		</part>
+		<part pitch="4" length_in_beats="32" name="World Stage B">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Knarz Hook" volume="61" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Sting Hookline" volume="52" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Weird Cymb B" volume="44" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Hi Fly Wave A" volume="54" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit I" volume="68" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Middle Ground" volume="56" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Trippin Spider B" volume="61" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">00000000968E7343B67E0A40</effect>
+			</effects>
+			<chord_sequence>ggggD#D#D#D#ddddffffggggD#D#D#D#A#A#A#A#cccc</chord_sequence>
+		</part>
+		<part pitch="4" length_in_beats="32" name="Loudly Hook C">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Boom Room A" volume="57" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Sting Hookline" volume="56" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Ruin Marble" volume="74" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Eerie Angel E" volume="47" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Pluck Verseline" volume="57" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit F" volume="72" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Dark Rezo C" volume="57" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Weird Cymb B" volume="47" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">00000000968E7343B67E0A40</effect>
+			</effects>
+			<chord_sequence>G#G#G#G#ccccA#A#A#A#ffffG#G#G#G#ccccA#A#A#A#ffff</chord_sequence>
+		</part>
+		<part pitch="4" length_in_beats="32" name="Loudly Hook D">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Sub Rub" volume="63" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Pluck Verseline" volume="60" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Ruin Marble" volume="70" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Mute Button Dancer" volume="55" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Middle Ground" volume="67" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit H" volume="74" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Dark Rezo C" volume="57" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Weird Cymb B" volume="47" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">00000000968E7343B67E0A40</effect>
+			</effects>
+			<chord_sequence>G#G#G#G#ccccA#A#A#A#ffffG#G#G#G#ccccA#A#A#A#ffff</chord_sequence>
+		</part>
+		<part pitch="4" length_in_beats="32" name="End">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Sub Rub" volume="63" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Sting Hookline" volume="56" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Crazy Talkin" volume="72" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Circular Fury A" volume="57" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Piano Sigh" volume="63" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit B" volume="74" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Weird Cymb B" volume="57" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Weird Cymb B" volume="47" is_active="true" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">00000000968E7343B67E0A40</effect>
+			</effects>
+			<chord_sequence>ggggggggD#D#D#D#D#D#D#D#D#D#D#D#D#D#D#D#D#D#D#D#D#D#D#D#</chord_sequence>
+		</part>
+	</parts>
+</project>

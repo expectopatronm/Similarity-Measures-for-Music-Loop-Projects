@@ -1,0 +1,263 @@
+<?xml version="1.0"?>
+<project volume="0" bpm="120" cut_mode="Beat">
+	<used_chords>aa#CdeFG</used_chords>
+	<user_loops />
+	<parts selected_index="0">
+		<part pitch="0" length_in_beats="32" name="A">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/RockinDck" volume="50" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Synth/PitchGlitch Synth" volume="23" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Circular Fury B" volume="40" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">0000000000D0364600000040</effect>
+			</effects>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (1)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/RockinDck" volume="50" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Synth/PitchGlitch Synth" volume="71" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Circular Fury B" volume="40" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="33" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">0000000000D0364600000040</effect>
+			</effects>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (2)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/RockinDck" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Build A" volume="35" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Synth/PitchGlitch Synth" volume="71" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Circular Fury B" volume="40" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="33" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">0000000000D0364600000040</effect>
+			</effects>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (3)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/RockinDck" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Build A" volume="35" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Synth/PitchGlitch Synth" volume="71" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Chipsounds/JiveGlitch" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Crazy Talkin" volume="33" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="33" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">0000000000D0364600000040</effect>
+			</effects>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (4)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/RockinDck" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Build A" volume="35" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Synth/PitchGlitch Synth" volume="71" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/Psykodelayck One" volume="77" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Crazy Talkin" volume="33" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="33" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">0000000000D0364600000040</effect>
+			</effects>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (5)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/RockinDck" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Build A" volume="35" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Synth/PitchGlitch Synth" volume="71" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Synth/BoubleWobble" volume="43" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Crazy Talkin" volume="33" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="33" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">0000000000D0364600000040</effect>
+			</effects>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (6)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/RockinDck" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Build A" volume="35" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Synth/PitchGlitch Synth" volume="71" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Synth/BoubleWobble" volume="43" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Crazy Talkin" volume="33" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="33" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/ClassicUplifter FX" volume="50" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">0000000000D0364600000040</effect>
+			</effects>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (7)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/RockinDck" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Build A" volume="35" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Synth/PitchGlitch Synth" volume="71" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Synth/BoubleWobble" volume="43" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Crazy Talkin" volume="33" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="33" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/DelGlitchosLong FX" volume="50" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">0000000000D0364600000040</effect>
+			</effects>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (8)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/RockinDck" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Build A" volume="35" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Synth/PitchGlitch Synth" volume="71" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Synth/BoubleWobble" volume="43" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Crazy Talkin" volume="33" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="33" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/DelGlitchosLong FX" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Piano Moan" volume="50" is_active="true" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">0000000000D0364600000040</effect>
+			</effects>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (9)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/RockinDck" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Build A" volume="35" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Synth/BoubleWobble" volume="71" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Synth/PitchGlitch Synth" volume="43" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Middle Ground" volume="33" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/Psykodelayck One" volume="33" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/DoerbeDownlifter Pumpin FX" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Piano Sigh" volume="50" is_active="true" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">0000000000D0364600000040</effect>
+			</effects>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (10)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/RockinDck" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Build A" volume="35" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Synth/BoubleWobble" volume="71" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Synth/PitchGlitch Synth" volume="43" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Middle Ground" volume="33" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/Psykodelayck One" volume="33" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/DoerbeDownlifter Pumpin FX" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Piano Sigh" volume="50" is_active="true" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">0000000000D0364600000040</effect>
+			</effects>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (11)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/RockinDck" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Build A" volume="35" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Synth/BoubleWobble" volume="35" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Synth/PitchGlitch Synth" volume="43" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Middle Ground" volume="33" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/Psykodelayck One" volume="33" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/DelGlitchosLong FX" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Piano Sigh" volume="50" is_active="true" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">0000000000D0364600000040</effect>
+			</effects>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (12)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/RockinDck" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Build A" volume="35" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Synth/BoubleWobble" volume="35" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Synth/PitchGlitch Synth" volume="43" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Middle Ground" volume="33" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Synth/PitchGlitch Synth" volume="19" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/DelGlitchosLong FX" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Pad/StarlightPad" volume="19" is_active="true" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">0000000000D0364600000040</effect>
+			</effects>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (13)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/RockinDck" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Build A" volume="35" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Synth/BoubleWobble" volume="35" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Synth/PitchGlitch Synth" volume="43" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Middle Ground" volume="33" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Weird Cymb B" volume="33" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/DelGlitchosLong FX" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Piano Sigh" volume="28" is_active="true" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">0000000000D0364600000040</effect>
+			</effects>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (14)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/RockinDck" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Build A" volume="35" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Synth/BoubleWobble" volume="57" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Synth/PitchGlitch Synth" volume="43" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Middle Ground" volume="33" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Weird Cymb B" volume="33" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/DelGlitchosLong FX" volume="31" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Piano Sigh" volume="50" is_active="true" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">0000000000D0364600000040</effect>
+			</effects>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (15)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/RockinDck" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Build A" volume="35" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Synth/BoubleWobble" volume="57" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Synth/PitchGlitch Synth" volume="43" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Eerie Angel A" volume="33" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Weird Cymb B" volume="33" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/DelGlitchosLong FX" volume="31" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Piano Sigh" volume="50" is_active="true" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">0000000000D0364600000040</effect>
+			</effects>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+	</parts>
+</project>

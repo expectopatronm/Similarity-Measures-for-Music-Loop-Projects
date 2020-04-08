@@ -1,0 +1,503 @@
+<?xml version="1.0"?>
+<project volume="94" bpm="120" cut_mode="Beat">
+	<used_chords>aa#CdeFG</used_chords>
+	<user_loops />
+	<parts selected_index="30">
+		<part pitch="0" length_in_beats="16" name="A">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Piano Sigh" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Weird Cymb B" volume="69" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Boom Room A" volume="41" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Sequence/Spacechords" volume="29" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Sequence/Uppson" volume="19" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit C" volume="66" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">0000000000D0364600000040</effect>
+			</effects>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (1)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Piano Sigh" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Weird Cymb B" volume="69" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Boom Room A" volume="41" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Sequence/Spacechords" volume="29" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Sequence/Uppson" volume="19" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit C" volume="66" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">0000000000D0364600000040</effect>
+			</effects>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (2)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Piano Sigh" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Weird Cymb B" volume="69" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Boom Room A" volume="41" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Sequence/Spacechords" volume="29" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Sequence/Uppson" volume="19" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit C" volume="0" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">0000000000D0364600000040</effect>
+			</effects>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (3)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Piano Sigh" volume="36" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Weird Cymb B" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Boom Room A" volume="20" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Sequence/Spacechords" volume="10" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Sequence/Uppson" volume="19" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit C" volume="50" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">0000000000D0364600000040</effect>
+			</effects>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (4)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Piano Sigh" volume="22" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Weird Cymb B" volume="31" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Boom Room A" volume="23" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Sequence/Spacechords" volume="16" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Sequence/Uppson" volume="5" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit C" volume="54" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">0000000000D0364600000040</effect>
+			</effects>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (5)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Piano Sigh" volume="29" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Weird Cymb B" volume="23" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Boom Room A" volume="20" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Sequence/Spacechords" volume="29" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Sequence/Uppson" volume="9" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit C" volume="66" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">0000000000D0364600000040</effect>
+			</effects>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (6)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Piano Moan" volume="17" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Sequence/Spacechords" volume="30" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="36" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Sequence/Spacechords" volume="16" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Sequence/Uppson" volume="14" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit C" volume="79" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums Solo/Sticky G" volume="23" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">0000000000D0364600000040</effect>
+			</effects>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (8)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Piano Moan" volume="29" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Sequence/Spacechords" volume="30" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="48" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Sequence/Spacechords" volume="29" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Sequence/Uppson" volume="0" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit C" volume="66" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/ClassicDownlifter FX" volume="14" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">0000000000D0364600000040</effect>
+			</effects>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (7)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Piano Moan" volume="29" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Sequence/Spacechords" volume="30" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="48" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Sequence/Spacechords" volume="29" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Sequence/Uppson" volume="9" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit G" volume="46" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/KikStomp B" volume="64" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">0000000000D0364600000040</effect>
+			</effects>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (9)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Piano Moan" volume="29" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Sequence/Spacechords" volume="30" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BigMove Bass" volume="48" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums/Tonga D" volume="29" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Sequence/Uppson" volume="9" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit G" volume="48" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/KikStomp B" volume="66" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">0000000000D0364600000040</effect>
+			</effects>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (10)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Piano Moan" volume="29" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit L" volume="44" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Absorber" volume="21" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums/Tonga D" volume="29" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Pad/StarlightPad" volume="0" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit G" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/KikStomp B" volume="68" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">0000000000D0364600000040</effect>
+			</effects>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (11)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/Psykodelayck One" volume="43" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit L" volume="44" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Booking" volume="17" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums/Tonga D" volume="29" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Pad/StarlightPad" volume="0" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit G" volume="52" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/KikStomp B" volume="69" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">0000000000D0364600000040</effect>
+			</effects>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (12)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/Psykodelayck One" volume="43" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit L" volume="44" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Booking" volume="12" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums/Tonga D" volume="29" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Pad/StarlightPad" volume="14" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit G" volume="51" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/KikStomp B" volume="67" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">0000000000D0364600000040</effect>
+			</effects>
+			<chord_sequence>aaaaaaaCaaaaaaaG</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (13)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Eerie Angel D" volume="43" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit L" volume="44" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Booking" volume="12" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums/Tonga D" volume="29" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Pad/StarlightPad" volume="14" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit G" volume="45" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/KikStomp B" volume="67" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/RetroLead" volume="13" is_active="true" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">0000000000D0364600000040</effect>
+			</effects>
+			<chord_sequence>aaaaaaaaaaaCaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (14)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Pad/Flightlight" volume="18" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit L" volume="44" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Knarz Hook" volume="24" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums/Tonga D" volume="29" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Pad/StarlightPad" volume="14" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit G" volume="44" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/KikStomp B" volume="68" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/RetroLead" volume="6" is_active="true" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">0000000000D0364600000040</effect>
+			</effects>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (15)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Pad/Flightlight" volume="18" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/TheFreshness D" volume="27" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Knarz Hook" volume="24" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums/Tonga D" volume="29" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Pad/StarlightPad" volume="14" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit I" volume="48" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/KikStomp B" volume="67" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/RetroLead" volume="6" is_active="true" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">0000000000D0364600000040</effect>
+			</effects>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (16)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Pad/Flightlight" volume="18" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums/Tonga D" volume="14" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Knarz Hook" volume="24" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums/Tonga D" volume="23" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Pad/StarlightPad" volume="14" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit E" volume="59" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/KikStomp B" volume="44" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/RetroLead" volume="6" is_active="true" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">0000000000D0364600000040</effect>
+			</effects>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (17)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Pad/Flightlight" volume="18" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/SwingingShuffle A" volume="44" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Knarz Hook" volume="24" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums/Tonga D" volume="29" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Pad/StarlightPad" volume="14" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit E" volume="42" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Percussion/AddonBeat A" volume="44" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/RetroLead" volume="6" is_active="true" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">0000000000D0364600000040</effect>
+			</effects>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="4" name="A (18)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Pad/Flightlight" volume="18" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/SwingingShuffle A" volume="44" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Knarz Hook" volume="24" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums/Tonga D" volume="29" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Pad/StarlightPad" volume="14" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit E" volume="42" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Percussion/AddonBeat A" volume="44" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/RetroLead" volume="6" is_active="true" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">0000000000D0364600000040</effect>
+			</effects>
+			<chord_sequence>aaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="4" name="A (19)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Pad/Flightlight" volume="18" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/SwingingShuffle A" volume="20" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Knarz Hook" volume="24" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums/Tonga D" volume="29" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Pad/StarlightPad" volume="14" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit E" volume="42" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Percussion/AddonBeat A" volume="44" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/RetroLead" volume="6" is_active="true" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">0000000000D0364600000040</effect>
+			</effects>
+			<chord_sequence>aaae</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="4" name="A (21)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Pad/Flightlight" volume="18" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/SwingingShuffle A" volume="39" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Knarz Hook" volume="24" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums/Tonga D" volume="29" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Pad/StarlightPad" volume="14" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit E" volume="42" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Percussion/AddonBeat A" volume="44" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/RetroLead" volume="6" is_active="true" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">0000000000D0364600000040</effect>
+			</effects>
+			<chord_sequence>aaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="4" name="A (20)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Pad/Flightlight" volume="18" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/SwingingShuffle A" volume="22" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Knarz Hook" volume="24" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums/Tonga D" volume="29" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Pad/StarlightPad" volume="14" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit E" volume="42" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Percussion/AddonBeat A" volume="44" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/RetroLead" volume="6" is_active="true" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">0000000000D0364600000040</effect>
+			</effects>
+			<chord_sequence>aaae</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="8" name="A (22)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Pad/Flightlight" volume="18" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/SwingingShuffle A" volume="36" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Knarz Hook" volume="24" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums/Tonga D" volume="29" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Pad/StarlightPad" volume="14" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit E" volume="42" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Percussion/AddonBeat A" volume="44" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/RetroLead" volume="6" is_active="true" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">0000000000D0364600000040</effect>
+			</effects>
+			<chord_sequence>aaaeeFda</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (24)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Pad/Flightlight" volume="25" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/SwingingShuffle A" volume="26" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Knarz Hook" volume="24" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums/Tonga D" volume="29" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Pad/StarlightPad" volume="18" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit E" volume="42" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Percussion/AddonBeat A" volume="44" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/RetroLead" volume="6" is_active="true" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">0000000000D0364600000040</effect>
+			</effects>
+			<chord_sequence>aaaaaaaaaaGGaaeaaaaaaaaaaaGGaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (23)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Pad/Flightlight" volume="18" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/SwingingShuffle A" volume="26" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Knarz Hook" volume="24" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums/Tonga D" volume="29" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Pad/StarlightPad" volume="14" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit E" volume="42" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Percussion/AddonBeat A" volume="44" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Chipsounds/JiveGlitch" volume="35" is_active="true" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">0000000000D0364600000040</effect>
+			</effects>
+			<chord_sequence>aaaaaaaaaaGGaaeaaaaaaaaaaaGGaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (25)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Pad/Flightlight" volume="18" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/SwingingShuffle A" volume="26" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Sub Rub" volume="24" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums/Tonga D" volume="29" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Pad/StarlightPad" volume="2" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/SwingingShuffle D" volume="42" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Percussion/AddonBeat A" volume="44" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Chipsounds/JiveGlitch" volume="43" is_active="true" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">0000000000D0364600000040</effect>
+			</effects>
+			<chord_sequence>aaaaaaaaaaGGaaeaaaaaaaaaaaGGaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (26)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Pad/Flightlight" volume="18" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/SwingingShuffle A" volume="26" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Knarz Hook" volume="24" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums/Tonga D" volume="29" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Pad/StarlightPad" volume="14" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit E" volume="42" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Percussion/AddonBeat A" volume="44" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Chipsounds/JiveGlitch" volume="45" is_active="true" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">0000000000D0364600000040</effect>
+			</effects>
+			<chord_sequence>aaaaaaaaaaGGaaeaaaaaaaaaaaGGaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (30)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Pad/Flightlight" volume="18" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/SwingingShuffle A" volume="26" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Knarz Hook" volume="24" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums/Tonga D" volume="29" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Pad/StarlightPad" volume="14" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit E" volume="42" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Percussion/AddonBeat A" volume="44" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Chipsounds/JiveGlitch" volume="50" is_active="true" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">0000000000D0364600000040</effect>
+			</effects>
+			<chord_sequence>aaaaaGGaaaGaaaeaaaaaaaaaaaGGaaea</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (28)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Piano Sigh" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Weird Cymb B" volume="63" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Boom Room A" volume="18" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Sequence/Spacechords" volume="29" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Sequence/Uppson" volume="19" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit C" volume="0" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">0000000000D0364600000040</effect>
+			</effects>
+			<chord_sequence>aaaaaaaaaaaaaaaaGGeeaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (29)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Piano Sigh" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Weird Cymb B" volume="69" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Boom Room A" volume="41" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Sequence/Spacechords" volume="29" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Sequence/Uppson" volume="19" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit C" volume="66" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">0000000000D0364600000040</effect>
+			</effects>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (27)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Piano Sigh" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Weird Cymb B" volume="69" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Boom Room A" volume="41" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Sequence/Spacechords" volume="29" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Sequence/Uppson" volume="19" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit C" volume="66" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">0000000000D0364600000040</effect>
+			</effects>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+	</parts>
+</project>

@@ -1,0 +1,244 @@
+<?xml version="1.0"?>
+<project volume="10" bpm="120" cut_mode="Beat">
+	<used_chords>aa#CdeFG</used_chords>
+	<user_loops>
+		<loop id="f6e83213-810f-42ba-b291-9d42c2c37a67" name="recording 1" bpm="120" length_in_beats="16" path="file://./user_loops/recording%201.mmjraw" />
+		<loop id="89043def-8032-4c2b-966e-fc2247844343" name="recording 2" bpm="120" length_in_beats="16" path="file://./user_loops/recording%202.mmjraw" />
+	</user_loops>
+	<parts selected_index="17">
+		<part pitch="0" length_in_beats="32" name="A">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Chord_Punch" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Bass/TranceBass" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Reverb_Drums C" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Pad/Phasing" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Sequence/Deep_Rain" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Strings/Big_Strings" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Reverb_Drums B" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Reverb_Drums E" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>FFFFGGGGddddFFFFaaaaGGGGddddFFFF</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (1)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Chord_Punch" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Bass/TranceBass" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Reverb_Drums C" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Pad/Phasing" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Sequence/Deep_Rain" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Strings/Big_Strings" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Reverb_Drums B" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Reverb_Drums E" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>FFFFGGGGddddFFFF</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (2)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Chord_Punch" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Bass/TranceBass" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Reverb_Drums C" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Pad/Phasing" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Sequence/Deep_Rain" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Strings/Big_Strings" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Reverb_Drums B" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Reverb_Drums E" volume="50" is_active="true" />
+			</channels>
+			<chord_sequence>FFFFGGGGddddFFFF</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (3)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Chord_Punch" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Bass/TranceBass" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Reverb_Drums C" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Pad/Phasing" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Sequence/Deep_Rain" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Strings/Big_Strings" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Reverb_Drums B" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Reverb_Drums E" volume="50" is_active="true" />
+			</channels>
+			<chord_sequence>FFFFGGGGddddFFFF</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (4)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Chord_Punch" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Bass/TranceBass" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Reverb_Drums C" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Pad/Phasing" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Sequence/Deep_Rain" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Strings/Big_Strings" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Reverb_Drums B" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Reverb_Drums E" volume="50" is_active="true" />
+			</channels>
+			<chord_sequence>FFFFGGGGddddFFFF</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (10)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Chord_Punch" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Bass/TranceBass" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Reverb_Drums C" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Pad/Phasing" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Sequence/Deep_Rain" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Strings/Big_Strings" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Reverb_Drums B" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Reverb_Drums E" volume="50" is_active="true" />
+			</channels>
+			<chord_sequence>FFFFGGGGddddFFFF</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (11)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Chord_Punch" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Bass/TranceBass" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Reverb_Drums C" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Pad/Phasing" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Sequence/Deep_Rain" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Strings/Big_Strings" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Reverb_Drums B" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Reverb_Drums E" volume="50" is_active="true" />
+			</channels>
+			<chord_sequence>FFFFGGGGddddFFFF</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (5)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Chord_Punch" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Bass/TranceBass" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Reverb_Drums C" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Vocals/Listen Verse A" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Sequence/Cychord" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Strings/Big_Strings" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Reverb_Drums B" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Reverb_Drums E" volume="50" is_active="true" />
+			</channels>
+			<chord_sequence>FFFFGGGGddddFFFFaaaaGGGGddddFFFF</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (6)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Chord_Punch" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Bass/TranceBass" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Reverb_Drums C" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Areal_Arp" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Sequence/Deep_Rain" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Strings/Big_Strings" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Reverb_Drums B" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Reverb_Drums E" volume="50" is_active="true" />
+			</channels>
+			<chord_sequence>FFFFGGGGddddFFFFaaaaGGGGddddFFFF</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (7)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Chord_Punch" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Bass/TranceBass" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Reverb_Drums C" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Areal_Arp" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Sequence/Deep_Rain" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Strings/Big_Strings" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Reverb_Drums B" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Reverb_Drums E" volume="50" is_active="true" />
+			</channels>
+			<chord_sequence>FFFFGGGGddddFFFF</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (8)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Chord_Punch" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Bass/TranceBass" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Reverb_Drums C" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Areal_Arp" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Sequence/Deep_Rain" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Strings/Big_Strings" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Reverb_Drums B" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Reverb_Drums E" volume="50" is_active="true" />
+			</channels>
+			<chord_sequence>FFFFGGGGddddFFFFaaaaGGGGddddFFFF</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (9)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Chord_Punch" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Bass/TranceBass" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Reverb_Drums C" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Areal_Arp" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Sequence/Deep_Rain" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Strings/Big_Strings" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Reverb_Drums B" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Reverb_Drums E" volume="50" is_active="true" />
+			</channels>
+			<chord_sequence>FFFFGGGGddddFFFF</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (12)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Chord_Punch" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Bass/TranceBass" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Reverb_Drums C" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Areal_Arp" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Sequence/Deep_Rain" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Strings/Big_Strings" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Reverb_Drums B" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Reverb_Drums E" volume="50" is_active="true" />
+			</channels>
+			<chord_sequence>FFFFGGGGddddFFFF</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (13)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Chord_Punch" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Bass/TranceBass" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Reverb_Drums C" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Sequence/Cychord" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Sequence/Deep_Rain" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Strings/Big_Strings" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Reverb_Drums B" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Reverb_Drums E" volume="50" is_active="true" />
+			</channels>
+			<chord_sequence>FFFFGGGGddddFFFFaaaaGGGGddddFFFF</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (14)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Chord_Punch" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Bass/TranceBass" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Reverb_Drums C" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Sequence/Cychord" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Sequence/Deep_Rain" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Strings/Big_Strings" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Reverb_Drums B" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Reverb_Drums E" volume="50" is_active="true" />
+			</channels>
+			<chord_sequence>FFFFGGGGddddFFFF</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (15)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Chord_Punch" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Bass/TranceBass" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Reverb_Drums C" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Sequence/Cychord" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Sequence/Deep_Rain" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Strings/Big_Strings" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Reverb_Drums B" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Reverb_Drums E" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>FFFFGGGGddddFFFF</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (16)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Chord_Punch" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Bass/TranceBass" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Reverb_Drums C" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Sequence/Cychord" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Sequence/Deep_Rain" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Strings/Big_Strings" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Reverb_Drums B" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Reverb_Drums E" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>FFFFGGGGddddFFFF</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (17)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Chord_Punch" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Bass/TranceBass" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Reverb_Drums C" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Sequence/Cychord" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Sequence/Deep_Rain" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Strings/Big_Strings" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Reverb_Drums B" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Reverb_Drums E" volume="50" is_active="true" />
+			</channels>
+			<chord_sequence>FFFFGGGGddddFFFFaaaaGGGGddddFFFF</chord_sequence>
+		</part>
+	</parts>
+</project>

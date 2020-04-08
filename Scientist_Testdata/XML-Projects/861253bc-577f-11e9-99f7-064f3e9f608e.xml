@@ -1,0 +1,228 @@
+<?xml version="1.0"?>
+<project volume="60" bpm="120" cut_mode="Beat">
+	<used_chords>CdeFGaa#</used_chords>
+	<user_loops />
+	<parts selected_index="16">
+		<part pitch="0" length_in_beats="32" name="A">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums/Drake A" volume="78" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Bass/TranceBass" volume="74" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Pad/Tubing" volume="75" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Sequence/ARP_Seq" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (1)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums/Drake A" volume="85" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Bass/TranceBass" volume="81" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Pad/Tubing" volume="81" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Sequence/ARP_Seq" volume="80" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (2)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums/Drake A" volume="80" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Bass/TranceBass" volume="71" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Pad/Tubing" volume="71" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Sequence/Bungee" volume="77" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Sequence/ARP_Seq" volume="71" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (3)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums/Drake A" volume="76" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Bass/TranceBass" volume="74" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Areal_Arp" volume="73" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Pad/Tubing" volume="69" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Sequence/Bungee" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Sequence/ARP_Seq" volume="69" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (4)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums/Drake A" volume="78" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Circus_Set A" volume="91" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Bass/TranceBass" volume="63" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Areal_Arp" volume="73" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Pad/Tubing" volume="72" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Sequence/Bungee" volume="83" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Sequence/ARP_Seq" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (5)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums/Drake A" volume="65" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Circus_Set A" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Bass/TranceBass" volume="70" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Areal_Arp" volume="75" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Pad/Tubing" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Sequence/Deep_Rain" volume="78" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Sequence/ARP_Seq" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (6)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums/Drake A" volume="91" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Circus_Set A" volume="72" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Bass/TranceBass" volume="69" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Areal_Arp" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Pad/Tubing" volume="75" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Sequence/Deep_Rain" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Sequence/ARP_Seq" volume="76" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (7)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums/Drake A" volume="82" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Circus_Set A" volume="72" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Bass/TranceBass" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Areal_Arp" volume="75" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Pad/Tubing" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Vocals/Listen Hook A" volume="85" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Sequence/ARP_Seq" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (8)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums/Drake A" volume="73" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Circus_Set A" volume="69" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Bass/TranceBass" volume="75" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Areal_Arp" volume="74" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Pad/Tubing" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Vocals/Listen Hook B" volume="88" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Sequence/ARP_Seq" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (9)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums/Drake A" volume="79" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Circus_Set A" volume="75" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Bass/TranceBass" volume="78" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Areal_Arp" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Pad/Tubing" volume="79" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Vocals/Listen Verse A" volume="82" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Sequence/ARP_Seq" volume="79" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (10)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums/Drake A" volume="79" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Circus_Set A" volume="75" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Bass/TranceBass" volume="78" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Areal_Arp" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Pad/Tubing" volume="79" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Vocals/Listen Verse B" volume="82" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Sequence/ARP_Seq" volume="79" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (11)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums/Drake A" volume="79" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Circus_Set A" volume="75" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Bass/TranceBass" volume="78" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Areal_Arp" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Pad/Tubing" volume="79" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Vocals/Listen Verse C" volume="82" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Sequence/ARP_Seq" volume="79" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (12)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums/Drake A" volume="79" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Circus_Set A" volume="75" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Bass/TranceBass" volume="78" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Areal_Arp" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Pad/Tubing" volume="79" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Vocals/Listen Verse D" volume="82" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Sequence/ARP_Seq" volume="79" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (13)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums/Drake A" volume="79" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Circus_Set A" volume="75" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Bass/TranceBass" volume="78" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Areal_Arp" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Pad/Tubing" volume="79" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Vocals/Listen Verse D" volume="82" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Sequence/ARP_Seq" volume="79" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (14)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums/Drake A" volume="79" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Circus_Set A" volume="75" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Bass/TranceBass" volume="78" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Areal_Arp" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Pad/Tubing" volume="79" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Sequence/Bungee" volume="82" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Sequence/ARP_Seq" volume="79" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (15)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums/Drake A" volume="79" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Circus_Set A" volume="75" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Bass/TranceBass" volume="78" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Areal_Arp" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Pad/Tubing" volume="79" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Sequence/Bungee" volume="82" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Sequence/ARP_Seq" volume="79" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (16)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums/Drake A" volume="79" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Circus_Set A" volume="75" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Bass/TranceBass" volume="78" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Areal_Arp" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Pad/Tubing" volume="79" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Sequence/Bungee" volume="82" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Sequence/ARP_Seq" volume="79" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+	</parts>
+</project>

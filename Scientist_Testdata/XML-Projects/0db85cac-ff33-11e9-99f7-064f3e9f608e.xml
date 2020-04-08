@@ -1,0 +1,280 @@
+<?xml version="1.0"?>
+<project volume="50" bpm="120" cut_mode="Beat">
+	<used_chords>CdeFGaa#</used_chords>
+	<user_loops />
+	<parts selected_index="20">
+		<part pitch="0" length_in_beats="8" name="A">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/ClassicUplifter FX" volume="50" is_active="true" />
+				<channel loop="" volume="0" is_active="false" />
+				<channel loop="" volume="0" is_active="false" />
+				<channel loop="" volume="0" is_active="false" />
+				<channel loop="" volume="0" is_active="false" />
+				<channel loop="" volume="0" is_active="false" />
+				<channel loop="" volume="0" is_active="false" />
+				<channel loop="" volume="0" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (1)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Chipsounds/JiveGlitch" volume="35" is_active="true" />
+				<channel loop="" volume="0" is_active="false" />
+				<channel loop="" volume="0" is_active="false" />
+				<channel loop="" volume="0" is_active="false" />
+				<channel loop="" volume="0" is_active="false" />
+				<channel loop="" volume="0" is_active="false" />
+				<channel loop="" volume="0" is_active="false" />
+				<channel loop="" volume="0" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (2)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Chipsounds/JiveGlitch" volume="41" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/GlitchAmerica A" volume="39" is_active="true" />
+				<channel loop="" volume="0" is_active="false" />
+				<channel loop="" volume="0" is_active="false" />
+				<channel loop="" volume="0" is_active="false" />
+				<channel loop="" volume="0" is_active="false" />
+				<channel loop="" volume="0" is_active="false" />
+				<channel loop="" volume="0" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="8" name="A (3)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Chipsounds/JiveGlitch" volume="41" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/GlitchAmerica A" volume="0" is_active="true" />
+				<channel loop="" volume="0" is_active="false" />
+				<channel loop="" volume="0" is_active="false" />
+				<channel loop="" volume="0" is_active="false" />
+				<channel loop="" volume="0" is_active="false" />
+				<channel loop="" volume="0" is_active="false" />
+				<channel loop="" volume="0" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (4)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Chipsounds/JiveGlitch" volume="41" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/GlitchAmerica A" volume="37" is_active="true" />
+				<channel loop="" volume="0" is_active="false" />
+				<channel loop="" volume="0" is_active="false" />
+				<channel loop="" volume="0" is_active="false" />
+				<channel loop="" volume="0" is_active="false" />
+				<channel loop="" volume="0" is_active="false" />
+				<channel loop="" volume="0" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (5)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Chipsounds/JiveGlitch" volume="41" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/GlitchAmerica A" volume="37" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/ChefLead" volume="35" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/ChefLead" volume="0" is_active="true" />
+				<channel loop="" volume="0" is_active="false" />
+				<channel loop="" volume="0" is_active="false" />
+				<channel loop="" volume="0" is_active="false" />
+				<channel loop="" volume="0" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (6)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Chipsounds/JiveGlitch" volume="41" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/GlitchAmerica A" volume="37" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/ChefLead" volume="35" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/ChefLead" volume="0" is_active="true" />
+				<channel loop="" volume="0" is_active="false" />
+				<channel loop="" volume="0" is_active="false" />
+				<channel loop="" volume="0" is_active="false" />
+				<channel loop="" volume="0" is_active="false" />
+			</channels>
+			<chord_sequence>dCaa#aaaadCaa#aaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="8" name="A (7)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Chipsounds/JiveGlitch" volume="41" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/GlitchAmerica A" volume="37" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/ChefLead" volume="35" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/ChefLead" volume="0" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/ChefLead" volume="0" is_active="true" />
+				<channel loop="" volume="0" is_active="false" />
+				<channel loop="" volume="0" is_active="false" />
+				<channel loop="" volume="0" is_active="false" />
+			</channels>
+			<chord_sequence>dCaa#aaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="8" name="A (8)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Chipsounds/JiveGlitch" volume="41" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/GlitchAmerica A" volume="37" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/ChefLead" volume="35" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/ChefLead" volume="0" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/ChefLead" volume="0" is_active="true" />
+				<channel loop="" volume="0" is_active="false" />
+				<channel loop="" volume="0" is_active="false" />
+				<channel loop="" volume="0" is_active="false" />
+			</channels>
+			<chord_sequence>dCaa#aaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (9)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Chipsounds/JiveGlitch" volume="41" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/GlitchAmerica A" volume="37" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/ChefLead" volume="35" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/ChefLead" volume="0" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/ChefLead" volume="0" is_active="true" />
+				<channel loop="" volume="0" is_active="false" />
+				<channel loop="" volume="0" is_active="false" />
+				<channel loop="" volume="0" is_active="false" />
+			</channels>
+			<chord_sequence>dCaa#aaaadCaa#aaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (10)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Chipsounds/JiveGlitch" volume="41" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/GlitchAmerica A" volume="37" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/ChefLead" volume="35" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/ChefLead" volume="0" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/ChefLead" volume="0" is_active="true" />
+				<channel loop="" volume="0" is_active="false" />
+				<channel loop="" volume="0" is_active="false" />
+				<channel loop="" volume="0" is_active="false" />
+			</channels>
+			<chord_sequence>dCaa#aaaadCaa#aaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (11)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Chipsounds/JiveGlitch" volume="41" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/GlitchAmerica A" volume="37" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/ChefLead" volume="35" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/ChefLead" volume="0" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/ChefLead" volume="0" is_active="true" />
+				<channel loop="" volume="0" is_active="false" />
+				<channel loop="" volume="0" is_active="false" />
+				<channel loop="" volume="0" is_active="false" />
+			</channels>
+			<chord_sequence>dCaa#aaaadCaa#aaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="8" name="A (12)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Chipsounds/JiveGlitch" volume="41" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/GlitchAmerica A" volume="0" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/ChefLead" volume="0" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Synth/BoubleWobble" volume="39" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/ChefLead" volume="0" is_active="true" />
+				<channel loop="" volume="0" is_active="false" />
+				<channel loop="" volume="0" is_active="false" />
+				<channel loop="" volume="0" is_active="false" />
+			</channels>
+			<chord_sequence>dCaa#aaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="8" name="A (13)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Chipsounds/JiveGlitch" volume="41" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/GlitchAmerica A" volume="43" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/ChefLead" volume="0" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Synth/BoubleWobble" volume="39" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/ChefLead" volume="0" is_active="true" />
+				<channel loop="" volume="0" is_active="false" />
+				<channel loop="" volume="0" is_active="false" />
+				<channel loop="" volume="0" is_active="false" />
+			</channels>
+			<chord_sequence>dCaa#aaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="8" name="A (14)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Chipsounds/JiveGlitch" volume="41" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/GlitchAmerica A" volume="0" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/ChefLead" volume="0" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Synth/BoubleWobble" volume="39" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/ChefLead" volume="0" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums Solo/Drake E" volume="100" is_active="true" />
+				<channel loop="" volume="0" is_active="false" />
+				<channel loop="" volume="0" is_active="false" />
+			</channels>
+			<chord_sequence>dCaa#aaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="8" name="A (15)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Chipsounds/JiveGlitch" volume="41" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/GlitchAmerica A" volume="0" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/ChefLead" volume="0" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Synth/BoubleWobble" volume="39" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/ChefLead" volume="0" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums Solo/Drake E" volume="100" is_active="true" />
+				<channel loop="" volume="0" is_active="false" />
+				<channel loop="" volume="0" is_active="false" />
+			</channels>
+			<chord_sequence>dCaa#aaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="4" name="A (16)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Chipsounds/JiveGlitch" volume="41" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/GlitchAmerica A" volume="0" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/ChefLead" volume="0" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Synth/BoubleWobble" volume="39" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/ChefLead" volume="0" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums Solo/Drake E" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/WobbleFunTri Bass" volume="48" is_active="true" />
+				<channel loop="" volume="0" is_active="false" />
+			</channels>
+			<chord_sequence>dCaa#</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="8" name="A (17)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Chipsounds/JiveGlitch" volume="41" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/GlitchAmerica A" volume="0" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/ChefLead" volume="0" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Synth/BoubleWobble" volume="39" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/ChefLead" volume="0" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums Solo/Drake E" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/WobbleFunTri Bass" volume="48" is_active="false" />
+				<channel loop="" volume="0" is_active="false" />
+			</channels>
+			<chord_sequence>dCaa#aaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="8" name="A (20)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Chipsounds/JiveGlitch" volume="41" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/GlitchAmerica A" volume="0" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/ChefLead" volume="0" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Synth/BoubleWobble" volume="39" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/ChefLead" volume="0" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums Solo/Drake E" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/WobbleFunTri Bass" volume="48" is_active="false" />
+				<channel loop="" volume="0" is_active="false" />
+			</channels>
+			<chord_sequence>dCaa#aaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="8" name="A (19)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Chipsounds/JiveGlitch" volume="41" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/GlitchAmerica A" volume="0" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/ChefLead" volume="0" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Synth/BoubleWobble" volume="39" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/ChefLead" volume="0" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums Solo/Drake E" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/WobbleFunTri Bass" volume="48" is_active="false" />
+				<channel loop="" volume="0" is_active="false" />
+			</channels>
+			<chord_sequence>dCaa#aaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="8" name="A (18)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Chipsounds/JiveGlitch" volume="41" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/GlitchAmerica A" volume="0" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/ChefLead" volume="0" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Synth/BoubleWobble" volume="39" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/ChefLead" volume="0" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums Solo/Drake E" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/WobbleFunTri Bass" volume="48" is_active="false" />
+				<channel loop="" volume="0" is_active="false" />
+			</channels>
+			<chord_sequence>dCaa#aaaa</chord_sequence>
+		</part>
+	</parts>
+</project>

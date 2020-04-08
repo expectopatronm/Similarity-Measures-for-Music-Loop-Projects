@@ -1,0 +1,567 @@
+<?xml version="1.0"?>
+<project volume="50" bpm="110" cut_mode="Beat">
+	<used_chords>aDeG</used_chords>
+	<user_loops />
+	<parts selected_index="34">
+		<part pitch="0" length_in_beats="8" name="A">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Build A" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Sub Rub" volume="56" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/World Stage" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Tribal House C" volume="50" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">00000000968E7343B67E0A40</effect>
+			</effects>
+			<chord_sequence>aaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (2)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Build A" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Sub Rub" volume="56" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/World Stage" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Tribal House C" volume="50" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">00000000968E7343B67E0A40</effect>
+			</effects>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (3)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Build A" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Sub Rub" volume="56" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/World Stage" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Tribal House C" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Mute Button Dancer" volume="50" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">00000000968E7343B67E0A40</effect>
+			</effects>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (1)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Build A" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Sub Rub" volume="56" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/World Stage" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Tribal House C" volume="50" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">00000000968E7343B67E0A40</effect>
+			</effects>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (4)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Build A" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Sub Rub" volume="56" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/World Stage" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Tribal House C" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Mute Button Dancer" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Boom Room A" volume="50" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">00000000968E7343B67E0A40</effect>
+			</effects>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (5)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Build A" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Sub Rub" volume="56" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/World Stage" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Tribal House C" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit A" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Boom Room A" volume="50" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">00000000968E7343B67E0A40</effect>
+			</effects>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (6)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Build A" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Sub Rub" volume="56" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Synth/PitchGlitch Synth" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Tribal House C" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit A" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Boom Room A" volume="50" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">00000000968E7343B67E0A40</effect>
+			</effects>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (7)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Build A" volume="0" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Sub Rub" volume="56" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Synth/PitchGlitch Synth" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Tribal House C" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit A" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Boom Room A" volume="100" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">00000000968E7343B67E0A40</effect>
+			</effects>
+			<chord_sequence>DaDDaDDDDDDDaDDG</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (8)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Build A" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Sub Rub" volume="56" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Synth/PitchGlitch Synth" volume="46" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Tribal House C" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit A" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Boom Room A" volume="50" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">00000000968E7343B67E0A40</effect>
+			</effects>
+			<chord_sequence>DeDeaDaDeeDDaeeD</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (9)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Build B" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Sub Rub" volume="56" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Synth/PitchGlitch Synth" volume="47" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Tribal House A" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit A" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Boom Room B" volume="50" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">00000000968E7343B67E0A40</effect>
+			</effects>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (10)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Build B" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Sub Rub" volume="56" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Synth/PitchGlitch Synth" volume="43" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Tribal House A" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit A" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Boom Room B" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Mute Button Dancer" volume="50" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">00000000968E7343B67E0A40</effect>
+			</effects>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (12)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly End Game" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Sub Rub" volume="56" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Synth/PitchGlitch Synth" volume="42" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Tribal House A" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit B" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Boom Room B" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Flag_Control F" volume="50" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">00000000968E7343B67E0A40</effect>
+			</effects>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (14)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly End Game" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Sub Rub" volume="56" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Synth/PitchGlitch Synth" volume="51" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Tribal House A" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit B" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Boom Room B" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Flag_Control E" volume="50" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">00000000968E7343B67E0A40</effect>
+			</effects>
+			<chord_sequence>aaaaDDDDaaaaDDDDaaaaDDDDaaaaDDDD</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (15)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly End Game" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Sub Rub" volume="56" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Synth/PitchGlitch Synth" volume="32" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Tribal House B" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Pad/Phasing" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Boom Room B" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Flag_Control F" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Hi Fly Wave" volume="50" is_active="true" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">00000000968E7343B67E0A40</effect>
+			</effects>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (16)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly End Game" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Sub Rub" volume="56" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Synth/PitchGlitch Synth" volume="35" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Tribal House B" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Pad/Phasing" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Boom Room B" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Flag_Control F" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Hi Fly Wave A" volume="50" is_active="true" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">00000000968E7343B67E0A40</effect>
+			</effects>
+			<chord_sequence>aaaaDDDDaaaaDDDDaaaaDDDDaaaaDDDD</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (17)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Build B" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Sub Rub" volume="56" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Synth/PitchGlitch Synth" volume="31" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Tribal House A" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Pad/Phasing" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Boom Room B" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Flag_Control E" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Hi Fly Wave B" volume="50" is_active="true" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">00000000968E7343B67E0A40</effect>
+			</effects>
+			<chord_sequence>aaaaDDDDaaaaGGGGaaaaDDDDaaaaGGGG</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (18)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Build B" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Sub Rub" volume="56" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Synth/PitchGlitch Synth" volume="31" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Tribal House A" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Pad/Phasing" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Boom Room B" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Flag_Control E" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Hi Fly Wave B" volume="50" is_active="true" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">00000000968E7343B67E0A40</effect>
+			</effects>
+			<chord_sequence>aaaaDDGGaaaaeeeeaaaaDDGGaaaaeeee</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (19)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Build B" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Sub Rub" volume="56" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Synth/PitchGlitch Synth" volume="31" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Tribal House A" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Pad/Phasing" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Boom Room B" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Flag_Control E" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/World Stage" volume="50" is_active="true" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">00000000968E7343B67E0A40</effect>
+			</effects>
+			<chord_sequence>aaaaaaaaaaaaDDGGaaaaaaaaaaaaDDGG</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="4" name="A (21)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Build B" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Sub Rub" volume="56" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Synth/PitchGlitch Synth" volume="31" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Tribal House A" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Pad/Phasing" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Boom Room B" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Flag_Control E" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Mute Button Dancer" volume="50" is_active="true" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">00000000968E7343B67E0A40</effect>
+			</effects>
+			<chord_sequence>aaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="4" name="A (22)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Build B" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Sub Rub" volume="56" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Synth/PitchGlitch Synth" volume="31" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Tribal House A" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Pad/Phasing" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Boom Room B" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Flag_Control E" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Mute Button Dancer" volume="50" is_active="true" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">00000000968E7343B67E0A40</effect>
+			</effects>
+			<chord_sequence>aaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="4" name="A (23)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Build B" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Sub Rub" volume="56" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Synth/PitchGlitch Synth" volume="31" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Tribal House A" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Pad/Phasing" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Boom Room B" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Flag_Control E" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Mute Button Dancer" volume="50" is_active="true" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">00000000968E7343B67E0A40</effect>
+			</effects>
+			<chord_sequence>aaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="4" name="A (26)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Build B" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Sub Rub" volume="56" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Synth/PitchGlitch Synth" volume="31" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Tribal House A" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Pad/Phasing" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Boom Room B" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Flag_Control E" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Mute Button Dancer" volume="50" is_active="true" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">00000000968E7343B67E0A40</effect>
+			</effects>
+			<chord_sequence>aaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="4" name="A (28)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Build B" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Sub Rub" volume="56" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Synth/PitchGlitch Synth" volume="31" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Tribal House A" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Pad/Phasing" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Boom Room B" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Flag_Control E" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Mute Button Dancer" volume="50" is_active="true" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">00000000968E7343B67E0A40</effect>
+			</effects>
+			<chord_sequence>aaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="4" name="A (27)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Build B" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Sub Rub" volume="56" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Synth/PitchGlitch Synth" volume="31" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Tribal House A" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Pad/Phasing" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Boom Room B" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Flag_Control E" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Mute Button Dancer" volume="50" is_active="true" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">00000000968E7343B67E0A40</effect>
+			</effects>
+			<chord_sequence>aaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="4" name="A (25)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Build B" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Sub Rub" volume="56" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Synth/PitchGlitch Synth" volume="31" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Tribal House A" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Pad/Phasing" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Boom Room B" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Flag_Control E" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Mute Button Dancer" volume="50" is_active="true" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">00000000968E7343B67E0A40</effect>
+			</effects>
+			<chord_sequence>aaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (24)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Build A" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Sub Rub" volume="56" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Synth/PitchGlitch Synth" volume="31" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Tribal House B" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Pad/Phasing" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Boom Room A" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Flag_Control F" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Mute Button Dancer" volume="50" is_active="true" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">00000000968E7343B67E0A40</effect>
+			</effects>
+			<chord_sequence>aaaaaaaaaaaaDDGGaaaaaaaaaaaaDDGG</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="4" name="A (29)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Build A" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Sub Rub" volume="56" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Synth/PitchGlitch Synth" volume="31" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Tribal House B" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Pad/Phasing" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Boom Room A" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Flag_Control F" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Mute Button Dancer" volume="50" is_active="true" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">00000000968E7343B67E0A40</effect>
+			</effects>
+			<chord_sequence>aaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="4" name="A (30)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Build A" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Sub Rub" volume="56" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Synth/PitchGlitch Synth" volume="31" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Tribal House B" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Pad/Phasing" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Boom Room A" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Flag_Control F" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Mute Button Dancer" volume="50" is_active="true" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">00000000968E7343B67E0A40</effect>
+			</effects>
+			<chord_sequence>aaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="4" name="A (31)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Build A" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Sub Rub" volume="56" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Synth/PitchGlitch Synth" volume="31" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Tribal House B" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Pad/Phasing" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Boom Room A" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Flag_Control F" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Mute Button Dancer" volume="50" is_active="true" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">00000000968E7343B67E0A40</effect>
+			</effects>
+			<chord_sequence>aaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="4" name="A (32)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Build A" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Sub Rub" volume="56" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Synth/PitchGlitch Synth" volume="31" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Tribal House B" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Pad/Phasing" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Boom Room A" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Flag_Control F" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Mute Button Dancer" volume="50" is_active="true" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">00000000968E7343B67E0A40</effect>
+			</effects>
+			<chord_sequence>aaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (33)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Build A" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Sub Rub" volume="56" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Synth/PitchGlitch Synth" volume="31" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Tribal House B" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Pad/Phasing" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Boom Room A" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Flag_Control F" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/World Stage" volume="50" is_active="true" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">00000000968E7343B67E0A40</effect>
+			</effects>
+			<chord_sequence>aaaaaaaaaaaaDDGGaaaaaaaaaaaaDDGG</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (35)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Build A" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Sub Rub" volume="56" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Synth/PitchGlitch Synth" volume="31" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Tribal House B" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Pad/Phasing" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Boom Room A" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Mute Button Dancer" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/World Stage" volume="50" is_active="true" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">00000000968E7343B67E0A40</effect>
+			</effects>
+			<chord_sequence>aaaaDDDDaaaaGGGG</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (36)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Build A" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Sub Rub" volume="56" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Synth/PitchGlitch Synth" volume="31" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Tribal House B" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Pad/Phasing" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Boom Room A" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Mute Button Dancer" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/World Stage" volume="50" is_active="true" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">00000000968E7343B67E0A40</effect>
+			</effects>
+			<chord_sequence>aaaaDDDDaaaaGGGG</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (37)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Build A" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Sub Rub" volume="56" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Synth/PitchGlitch Synth" volume="31" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Tribal House B" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Pad/Phasing" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Boom Room A" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Mute Button Dancer" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/World Stage" volume="50" is_active="true" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">00000000968E7343B67E0A40</effect>
+			</effects>
+			<chord_sequence>aaaaDDDDaaaaGGGG</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (38)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Build A" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Sub Rub" volume="56" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Synth/PitchGlitch Synth" volume="31" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Tribal House B" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Pad/Phasing" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Boom Room A" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Mute Button Dancer" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/World Stage" volume="50" is_active="true" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">00000000968E7343B67E0A40</effect>
+			</effects>
+			<chord_sequence>aaaaDDDDaaaaGGGG</chord_sequence>
+		</part>
+	</parts>
+</project>

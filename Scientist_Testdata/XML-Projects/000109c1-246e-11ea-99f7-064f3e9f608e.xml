@@ -1,0 +1,1216 @@
+<?xml version="1.0"?>
+<project volume="50" bpm="120" cut_mode="Beat">
+	<used_chords>aa#CdeFG</used_chords>
+	<user_loops />
+	<parts selected_index="92">
+		<part pitch="0" length_in_beats="16" name="A">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/ClassicDownlifter FX" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/ClassicUplifter FX" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (1)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/DelGlitchosLong FX" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/GlitchAmerica A" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/ClassicDownlifter FX" volume="50" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (2)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/DelGlitchosLong FX" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/GlitchAmerica A" volume="100" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/ClassicDownlifter FX" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/ClassicUplifter FX" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (3)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/DelGlitchosLong FX" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/GlitchAmerica B" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/ClassicDownlifter FX" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/ClassicUplifter FX" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (4)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/DelGlitchosLong FX" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/GlitchAmerica E" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/ClassicDownlifter FX" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/ClassicUplifter FX" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (5)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/DelGlitchosLong FX" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/SchuffleSnuff E" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/ClassicDownlifter FX" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/ClassicUplifter FX" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (6)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/DelGlitchosLong FX" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/SchuffleSnuff E" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/ClassicDownlifter FX" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/ClassicUplifter FX" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (7)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/DelGlitchosLong FX" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/SwingingShuffle A" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/ClassicDownlifter FX" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/ClassicUplifter FX" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (8)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/DelGlitchosLong FX" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/SwingingShuffle A" volume="100" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/ClassicDownlifter FX" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/ClassicUplifter FX" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (9)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/DelGlitchosLong FX" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/SwingingShuffle D" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/ClassicDownlifter FX" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/ClassicUplifter FX" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (10)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/DelGlitchosLong FX" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/SwingingShuffle E" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/ClassicDownlifter FX" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/ClassicUplifter FX" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (11)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/DelGlitchosLong FX" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/TheFreshness B" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/ClassicDownlifter FX" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/ClassicUplifter FX" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (12)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/DelGlitchosLong FX" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/TheFreshness B" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/ClassicDownlifter FX" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/ClassicUplifter FX" volume="100" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (13)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/DelGlitchosLong FX" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/TheFreshness B" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/ClassicDownlifter FX" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/ClassicUplifter FX" volume="100" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (14)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/DelGlitchosLong FX" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/TheFreshness D" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/ClassicDownlifter FX" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/ClassicUplifter FX" volume="100" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (15)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/DelGlitchosLong FX" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/TheFreshness D" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/ClassicDownlifter FX" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/ClassicUplifter FX" volume="100" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (16)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/DelGlitchosLong FX" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/TheFreshness D" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/ClassicDownlifter FX" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/ClassicUplifter FX" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (17)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/DelGlitchosLong FX" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/TheFreshness D" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/ClassicDownlifter FX" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/ClassicUplifter FX" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (18)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/DelGlitchosLong FX" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/TheFreshness D" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/ClassicDownlifter FX" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/ClassicUplifter FX" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (19)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/DelGlitchosLong FX" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/TheFreshness D" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/ClassicDownlifter FX" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/DoerbeDownlifter Pumpin FX" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (20)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/DelGlitchosLong FX" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/TheFreshness D" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/ClassicDownlifter FX" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/DoerbeDownlifter Pumpin FX" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (21)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/DelGlitchosLong FX" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/TheFreshness D" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/ClassicDownlifter FX" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/DoerbeDownlifter Pumpin FX" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (22)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/DelGlitchosLong FX" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/TheFreshness F" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/ClassicDownlifter FX" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/DoerbeDownlifter Pumpin FX" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (23)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/DelGlitchosLong FX" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/TheFreshness F" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/ClassicDownlifter FX" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/DoerbeDownlifter Pumpin FX" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (24)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/DelGlitchosLong FX" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/TheFreshness F" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/ClassicDownlifter FX" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/DoerbeDownlifter Pumpin FX" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (25)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/DelGlitchosLong FX" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/TheFreshness F" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/ClassicDownlifter FX" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/DoerbeDownlifter Pumpin FX" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (26)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/DelGlitchosLong FX" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/TheFreshness F" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/ClassicDownlifter FX" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/DoerbeDownlifter Pumpin FX" volume="100" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (27)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/DelGlitchosLong FX" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/TheFreshness F" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/ClassicDownlifter FX" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/DoerbeDownlifter Pumpin FX" volume="100" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (28)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/DelGlitchosLong FX" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/TheFreshness F" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/ClassicDownlifter FX" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/DoerbeDownlifter Pumpin FX" volume="100" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (29)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/DelGlitchosLong FX" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/TheFreshness F" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/ClassicDownlifter FX" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/DoerbeDownlifter Pumpin FX" volume="100" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (30)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/DelGlitchosLong FX" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/TheFreshness F" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/ClassicDownlifter FX" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/DoerbeDownlifter Pumpin FX" volume="100" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (31)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/DelGlitchosLong FX" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/TheFreshness F" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/ClassicDownlifter FX" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/DoerbeDownlifter Pumpin FX" volume="100" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (32)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/DelGlitchosLong FX" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/TheFreshness F" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/ClassicDownlifter FX" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/DoerbeDownlifter Pumpin FX" volume="100" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (33)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/DelGlitchosLong FX" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/TheFreshness F" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/ClassicDownlifter FX" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/DoerbeDownlifter Pumpin FX" volume="100" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (34)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/DelGlitchosLong FX" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/TheFreshness F" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/ClassicDownlifter FX" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/DoerbeDownlifter Pumpin FX" volume="100" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (35)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/DelGlitchosLong FX" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/TheFreshness F" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/ClassicDownlifter FX" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/DoerbeDownlifter Pumpin FX" volume="100" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (36)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/DelGlitchosLong FX" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/TheFreshness F" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (37)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/DelGlitchosLong FX" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/TheFreshness F" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (38)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/DelGlitchosLong FX" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/TheFreshness F" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (39)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/DelGlitchosLong FX" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/TheFreshness F" volume="100" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (40)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/DelGlitchosLong FX" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/TheFreshness F" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (41)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/RetroLead" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/TheFreshness F" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (42)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/RetroLead" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/TheFreshness F" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (43)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/RetroLead" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/TheFreshness F" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (44)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/RetroLead" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/TheFreshness F" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (45)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/RetroLead" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/TheFreshness F" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (46)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/RetroLead" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/TheFreshness F" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (47)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/RetroLead" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/TheFreshness F" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (48)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/RetroLead" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/TheFreshness D" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (49)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/RetroLead" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/TheFreshness D" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (50)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/RetroLead" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/TheFreshness D" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (51)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/RetroLead" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/TheFreshness D" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (52)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/RetroLead" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/TheFreshness B" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (53)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/RetroLead" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/TheFreshness B" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (54)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/RetroLead" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/TheFreshness B" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (55)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/RetroLead" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/TheFreshness B" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (56)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Pad/OneLightPad" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/TheFreshness B" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (57)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Pad/OneLightPad" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/SwingingShuffle D" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (58)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Pad/StarlightPad" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/SwingingShuffle A" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (59)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Pad/StarlightPad" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/SwingingShuffle A" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (60)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Pad/StarlightPad" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/SwingingShuffle A" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (61)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Pad/StarlightPad" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/SwingingShuffle A" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (62)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Pad/StarlightPad" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/SwingingShuffle A" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (63)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Pad/StarlightPad" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/SwingingShuffle A" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (64)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Pad/StarlightPad" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/SwingingShuffle A" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (65)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Pad/StarlightPad" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/SwingingShuffle A" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (66)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Pad/StarlightPad" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/SwingingShuffle A" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (67)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Pad/StarlightPad" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/SwingingShuffle A" volume="100" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (68)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Pad/StarlightPad" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/SwingingShuffle A" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (69)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Pad/StarlightPad" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/SwingingShuffle A" volume="100" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (70)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Pad/StarlightPad" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/SwingingShuffle A" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (71)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Pad/StarlightPad" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/SwingingShuffle A" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (72)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Pad/StarlightPad" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/SwingingShuffle A" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (73)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Pad/StarlightPad" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/SwingingShuffle A" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (74)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Pad/StarlightPad" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/SwingingShuffle A" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (75)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Pad/StarlightPad" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/SwingingShuffle A" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (76)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Pad/StarlightPad" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/SwingingShuffle A" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (77)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Pad/StarlightPad" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/SwingingShuffle D" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (78)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Pad/StarlightPad" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/SwingingShuffle D" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (79)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Pad/StarlightPad" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/SwingingShuffle E" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (80)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Pad/StarlightPad" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/SwingingShuffle E" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (81)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Pad/StarlightPad" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/TheFreshness B" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (82)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Pad/StarlightPad" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/TheFreshness B" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (83)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Pad/StarlightPad" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/TheFreshness D" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (84)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Pad/StarlightPad" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/TheFreshness D" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (85)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Pad/StarlightPad" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/TheFreshness D" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (86)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Pad/StarlightPad" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/TheFreshness F" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (87)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Pad/StarlightPad" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/TheFreshness F" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (88)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Pad/StarlightPad" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/TheFreshness F" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (89)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Pad/StarlightPad" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/TheFreshness F" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (90)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Pad/StarlightPad" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/TheFreshness F" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (91)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Pad/StarlightPad" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/TheFreshness F" volume="100" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (92)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Pad/StarlightPad" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Bass/BestSub Bass" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/TheFreshness F" volume="100" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/HouseGlitch" volume="100" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+	</parts>
+</project>

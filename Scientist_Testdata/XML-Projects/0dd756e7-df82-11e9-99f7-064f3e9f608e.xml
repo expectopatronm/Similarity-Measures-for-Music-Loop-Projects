@@ -1,0 +1,218 @@
+<?xml version="1.0"?>
+<project volume="75" bpm="105" cut_mode="Beat">
+	<used_chords>CdeFGaa#</used_chords>
+	<user_loops>
+		<loop id="92dd25e1-21be-4617-a41e-f577c8ce5031" name="recording 2" bpm="120" length_in_beats="16" path="file://./user_loops/recording%202.mmjraw" />
+		<loop id="f437ec81-6f25-4732-8831-248b3382e2fa" name="recording 1" bpm="120" length_in_beats="0" path="file://./user_loops/recording%201.mmjraw" />
+	</user_loops>
+	<parts selected_index="15">
+		<part pitch="0" length_in_beats="32" name="A">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums Solo/Drake E" volume="61" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/TheFreshness D" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Brummie" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Absorber" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Percussion/AddonBeat A" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/RetroLead" volume="52" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/ClassicDownlifter FX" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaGGGGGGGGFFFFFFFFaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (6)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums Solo/Drake E" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/TheFreshness D" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Brummie" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Absorber" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Percussion/AddonBeat A" volume="43" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/RetroLead" volume="48" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/ClassicDownlifter FX" volume="47" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Sequence/Spacechords" volume="49" is_active="true" />
+			</channels>
+			<chord_sequence>aaaaaaaaGGGGGGGGFFFFFFFFaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (4)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums Solo/Drake E" volume="23" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/TheFreshness D" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Brummie" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Absorber" volume="45" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Percussion/AddonBeat A" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/RetroLead" volume="51" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/ClassicDownlifter FX" volume="32" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Chipsounds/JiveGlitch" volume="33" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaGGGGGGGGFFFFFFFFaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (1)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums Solo/Drake E" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/TheFreshness D" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Brummie" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Absorber" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Percussion/AddonBeat A" volume="61" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/RetroLead" volume="34" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/ClassicDownlifter FX" volume="45" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaGGGGGGGGFFFFFFFFaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (3)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums Solo/Drake E" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/TheFreshness D" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Brummie" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Absorber" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Percussion/AddonBeat A" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Chipsounds/JiveGlitch" volume="76" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaGGGGGGGGFFFFFFFFaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (2)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums Solo/Drake E" volume="61" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/TheFreshness D" volume="55" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Brummie" volume="58" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Absorber" volume="58" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Percussion/AddonBeat A" volume="56" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Synth/Haller" volume="58" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Pad/Paddle" volume="56" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Chipsounds/JiveGlitch" volume="67" is_active="true" />
+			</channels>
+			<chord_sequence>GGGGGGGGFFFFFFFFGGGGGGGGaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (7)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums Solo/Drake E" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/TheFreshness D" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Brummie" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Absorber" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Percussion/AddonBeat A" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Chipsounds/JiveGlitch" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Pad/OneLightPad" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums/Grounded A" volume="50" is_active="true" />
+			</channels>
+			<chord_sequence>aaaaaaaaGGGGGGGGFFFFFFFFaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (14)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums Solo/Drake E" volume="47" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/TheFreshness D" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Brummie" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Absorber" volume="48" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Percussion/AddonBeat A" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/RetroLead" volume="51" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/ClassicDownlifter FX" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Chipsounds/JiveGlitch" volume="48" is_active="true" />
+			</channels>
+			<chord_sequence>aaaaaaaaGGGGGGGGFFFFFFFFaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (9)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums Solo/Drake E" volume="49" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/TheFreshness D" volume="51" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Brummie" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Absorber" volume="51" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Percussion/AddonBeat A" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/RetroLead" volume="48" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/ClassicDownlifter FX" volume="49" is_active="true" />
+				<channel loop="mmj://projects/this/user_loops/id/92dd25e1-21be-4617-a41e-f577c8ce5031" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaGGGGGGGGFFFFFFFFaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (10)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums Solo/Drake E" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/TheFreshness D" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Brummie" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Absorber" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Percussion/AddonBeat A" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Chipsounds/JiveGlitch" volume="85" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaGGGGGGGGFFFFFFFFaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (11)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums Solo/Drake E" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/TheFreshness D" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Brummie" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Absorber" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Percussion/AddonBeat A" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Synth/Haller" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Pad/Paddle" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Chipsounds/JiveGlitch" volume="74" is_active="true" />
+			</channels>
+			<chord_sequence>GGGGGGGGFFFFFFFFGGGGGGGGaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (12)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums Solo/Drake E" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/TheFreshness D" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Brummie" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Absorber" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Percussion/AddonBeat A" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Synth/Haller" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Pad/Paddle" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Chipsounds/JiveGlitch" volume="50" is_active="true" />
+			</channels>
+			<chord_sequence>GGGGGGGGFFFFFFFFGGGGGGGGaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (13)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums Solo/Drake E" volume="56" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/TheFreshness D" volume="56" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Brummie" volume="55" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Absorber" volume="56" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Percussion/AddonBeat A" volume="55" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Synth/Haller" volume="53" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Pad/Paddle" volume="54" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Chipsounds/JiveGlitch" volume="51" is_active="true" />
+			</channels>
+			<chord_sequence>GGGGGGGGFFFFFFFFGGGGGGGGaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (17)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums Solo/Drake E" volume="38" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/TheFreshness D" volume="48" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Brummie" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Absorber" volume="33" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Percussion/AddonBeat A" volume="44" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/RetroLead" volume="38" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/ClassicDownlifter FX" volume="39" is_active="true" />
+				<channel loop="" volume="16" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaGGGGGGGGFFFFFFFFaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (18)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums Solo/Drake E" volume="23" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/TheFreshness D" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Brummie" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Absorber" volume="39" is_active="true" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Percussion/AddonBeat A" volume="16" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/RetroLead" volume="53" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/ClassicDownlifter FX" volume="39" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Chipsounds/JiveGlitch" volume="54" is_active="true" />
+			</channels>
+			<chord_sequence>aaaaaaaaGGGGGGGGFFFFFFFFaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (19)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Drums Solo/Drake E" volume="58" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/TheFreshness D" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Brummie" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Absorber" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Percussion/AddonBeat A" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/RetroLead" volume="30" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/ClassicDownlifter FX" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaGGGGGGGGFFFFFFFFaaaaaaaa</chord_sequence>
+		</part>
+	</parts>
+</project>

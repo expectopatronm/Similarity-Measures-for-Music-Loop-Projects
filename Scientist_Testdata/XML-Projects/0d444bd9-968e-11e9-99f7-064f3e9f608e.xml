@@ -1,0 +1,215 @@
+<?xml version="1.0"?>
+<project volume="0" bpm="120" cut_mode="Beat">
+	<used_chords>aa#CdeFG</used_chords>
+	<user_loops />
+	<parts selected_index="0">
+		<part pitch="0" length_in_beats="32" name="A">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Bass/Dirrty_Bazz" volume="90" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Circus_Set B" volume="67" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (1)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Bass/Dirrty_Bazz" volume="64" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Circus_Set B" volume="50" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Pad/Scratch_Pad" volume="94" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Fx/Vocoder_Filter" volume="80" is_active="true" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (2)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Bass/Dirrty_Bazz" volume="64" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Circus_Set B" volume="50" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Sequence/Bootcamp" volume="75" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Pad/Scratch_Pad" volume="87" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Fx/Vocoder_Filter" volume="58" is_active="true" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (3)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Areal_Arp" volume="64" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Circus_Set B" volume="50" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Sequence/Bootcamp" volume="75" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Face_Off B" volume="50" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Pad/Scratch_Pad" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Fx/Vocoder_Filter" volume="58" is_active="true" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (4)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Areal_Arp" volume="64" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Circus_Set B" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Pad/Scratch_Pad" volume="74" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Sequence/Bootcamp" volume="99" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Face_Off B" volume="50" is_active="true" />
+				<channel loop="" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Pad/Scratch_Pad" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Fx/Vocoder_Filter" volume="58" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (5)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Areal_Arp" volume="64" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Circus_Set B" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Pad/Scratch_Pad" volume="74" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Sequence/Bootcamp" volume="75" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Face_Off B" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Pad/Gated_Pad" volume="70" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Pad/Scratch_Pad" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Fx/Vocoder_Filter" volume="58" is_active="true" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (6)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Areal_Arp" volume="64" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Circus_Set B" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Pad/Scratch_Pad" volume="74" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Sequence/Bootcamp" volume="75" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Face_Off B" volume="31" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Flag_Control B" volume="70" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Strings/Orchestral_Hit" volume="68" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Fx/Vocoder_Filter" volume="58" is_active="true" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (7)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Areal_Arp" volume="64" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Circus_Set B" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Pad/Scratch_Pad" volume="74" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Sequence/Bootcamp" volume="75" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Face_Off B" volume="31" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Flag_Control B" volume="70" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Strings/Orchestral_Hit" volume="68" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Fx/Vocoder_Filter" volume="58" is_active="true" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (8)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Areal_Arp" volume="64" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Circus_Set B" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Pad/Scratch_Pad" volume="74" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Sequence/Bootcamp" volume="75" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Face_Off B" volume="64" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Flag_Control B" volume="31" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Strings/Orchestral_Hit" volume="68" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Fx/Vocoder_Filter" volume="58" is_active="true" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (9)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Areal_Arp" volume="64" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Circus_Set B" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Pad/Scratch_Pad" volume="74" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Sequence/Bootcamp" volume="75" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Face_Off B" volume="64" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Flag_Control B" volume="31" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Strings/Orchestral_Hit" volume="68" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Fx/Vocoder_Filter" volume="58" is_active="true" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (10)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Areal_Arp" volume="64" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Circus_Set B" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Chord_Punch" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Sequence/Bootcamp" volume="75" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Face_Off B" volume="64" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Flag_Control B" volume="31" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Strings/Orchestral_Hit" volume="68" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Fx/Vocoder_Filter" volume="58" is_active="true" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (11)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Areal_Arp" volume="45" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Circus_Set B" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Chord_Punch" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Sequence/Bootcamp" volume="75" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Face_Off B" volume="64" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Flag_Control B" volume="62" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Strings/Orchestral_Hit" volume="68" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Fx/Vocoder_Filter" volume="58" is_active="true" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (12)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Bass/Exit_Only" volume="45" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Circus_Set B" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Chord_Punch" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Sequence/Bootcamp" volume="75" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Face_Off B" volume="64" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Flag_Control B" volume="62" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Strings/Orchestral_Hit" volume="68" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Fx/Vocoder_Filter" volume="58" is_active="true" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (13)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Bass/Exit_Only" volume="45" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Circus_Set B" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Chord_Punch" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Sequence/Bootcamp" volume="75" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Strings/Orchestral_Hit" volume="64" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Flag_Control B" volume="62" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Chord_Punch" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Fx/Vocoder_Filter" volume="58" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (14)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Bass/Exit_Only" volume="45" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Circus_Set B" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Chord_Punch" volume="25" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Sequence/Bootcamp" volume="75" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Strings/Orchestral_Hit" volume="64" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Flag_Control B" volume="62" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Chord_Punch" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Fx/Vocoder_Filter" volume="58" is_active="true" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (15)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Bass/Exit_Only" volume="68" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Circus_Set B" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Chord_Punch" volume="60" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Sequence/Bootcamp" volume="75" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Strings/Orchestral_Hit" volume="64" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Drums/Flag_Control B" volume="62" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Synth/Chord_Punch" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Pop/Fx/Vocoder_Filter" volume="58" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+	</parts>
+</project>

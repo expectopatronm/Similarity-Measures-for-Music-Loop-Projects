@@ -1,0 +1,273 @@
+<?xml version="1.0"?>
+<project volume="100" bpm="120" cut_mode="Beat">
+	<used_chords>aa#CdeFG</used_chords>
+	<user_loops />
+	<parts selected_index="18">
+		<part pitch="0" length_in_beats="16" name="intro">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Booking" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Chipsounds/JiveGlitch" volume="65" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/GlitchAmerica A" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/ClassicUplifter FX" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/Psykodelayck One" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/RetroLead" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Pad/StarlightPad" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Synth/PitchGlitch Synth" volume="50" is_active="false" />
+			</channels>
+			<effects />
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="intro (1)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Booking" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Chipsounds/JiveGlitch" volume="65" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/GlitchAmerica A" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/ClassicUplifter FX" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/Psykodelayck One" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/RetroLead" volume="44" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Pad/StarlightPad" volume="63" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Synth/PitchGlitch Synth" volume="62" is_active="false" />
+			</channels>
+			<effects />
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="pried">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Booking" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Chipsounds/JiveGlitch" volume="65" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/GlitchAmerica A" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/ClassicUplifter FX" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/Psykodelayck One" volume="62" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/RetroLead" volume="60" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Pad/StarlightPad" volume="77" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Synth/PitchGlitch Synth" volume="77" is_active="true" />
+			</channels>
+			<effects />
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="8" name="pried (2)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Booking" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Chipsounds/JiveGlitch" volume="65" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/GlitchAmerica A" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/ClassicUplifter FX" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/Psykodelayck One" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/RetroLead" volume="62" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Pad/StarlightPad" volume="66" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Synth/PitchGlitch Synth" volume="87" is_active="true" />
+			</channels>
+			<effects />
+			<chord_sequence>aaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="part">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Booking" volume="51" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Chipsounds/JiveGlitch" volume="81" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/GlitchAmerica A" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/ClassicUplifter FX" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/Psykodelayck One" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/RetroLead" volume="48" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Pad/StarlightPad" volume="76" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Synth/PitchGlitch Synth" volume="100" is_active="true" />
+			</channels>
+			<effects />
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="part">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Booking" volume="51" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Chipsounds/JiveGlitch" volume="81" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/GlitchAmerica A" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/ClassicUplifter FX" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/Psykodelayck One" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/RetroLead" volume="76" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Pad/StarlightPad" volume="66" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Synth/PitchGlitch Synth" volume="100" is_active="true" />
+			</channels>
+			<effects />
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="pried (5)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Booking" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Chipsounds/JiveGlitch" volume="65" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/GlitchAmerica A" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/ClassicUplifter FX" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/Psykodelayck One" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/RetroLead" volume="76" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Pad/StarlightPad" volume="66" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Synth/PitchGlitch Synth" volume="87" is_active="true" />
+			</channels>
+			<effects />
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="8" name="pried (6)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Booking" volume="35" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Chipsounds/JiveGlitch" volume="55" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/GlitchAmerica A" volume="33" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/ClassicUplifter FX" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/Psykodelayck One" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/RetroLead" volume="58" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Pad/StarlightPad" volume="57" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Synth/PitchGlitch Synth" volume="70" is_active="true" />
+			</channels>
+			<effects />
+			<chord_sequence>aaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="part">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Booking" volume="35" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Chipsounds/JiveGlitch" volume="55" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/GlitchAmerica A" volume="33" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/ClassicUplifter FX" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/Psykodelayck One" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/RetroLead" volume="58" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Pad/StarlightPad" volume="57" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Synth/PitchGlitch Synth" volume="70" is_active="false" />
+			</channels>
+			<effects />
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="part (1)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Booking" volume="35" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Chipsounds/JiveGlitch" volume="55" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/GlitchAmerica A" volume="33" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/ClassicUplifter FX" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/RockinDck" volume="36" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/ChefLead" volume="45" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Pad/OneLightPad" volume="89" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Synth/PitchGlitch Synth" volume="70" is_active="false" />
+			</channels>
+			<effects />
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="part (2)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Booking" volume="53" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Chipsounds/JiveGlitch" volume="77" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/GlitchAmerica A" volume="56" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/ClassicUplifter FX" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/RockinDck" volume="36" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/ChefLead" volume="45" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Pad/OneLightPad" volume="89" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Synth/PitchGlitch Synth" volume="70" is_active="false" />
+			</channels>
+			<effects />
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="pried (7)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Booking" volume="35" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Chipsounds/JiveGlitch" volume="55" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/GlitchAmerica A" volume="33" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/ClassicUplifter FX" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/Psykodelayck One" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/RetroLead" volume="58" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Pad/StarlightPad" volume="57" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Synth/PitchGlitch Synth" volume="70" is_active="true" />
+			</channels>
+			<effects />
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="8" name="pried (8)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Booking" volume="35" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Chipsounds/JiveGlitch" volume="55" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/GlitchAmerica A" volume="33" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/ClassicUplifter FX" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/Psykodelayck One" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/RetroLead" volume="58" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Pad/StarlightPad" volume="57" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Synth/PitchGlitch Synth" volume="70" is_active="true" />
+			</channels>
+			<effects />
+			<chord_sequence>aaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="stop">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Booking" volume="79" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Chipsounds/JiveGlitch" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/GlitchAmerica A" volume="78" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/ClassicUplifter FX" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/Psykodelayck One" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/RetroLead" volume="58" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Keys/Pinano" volume="32" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Sequence/Uppson" volume="81" is_active="true" />
+			</channels>
+			<effects />
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="8" name="stop (1)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Booking" volume="79" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Chipsounds/JiveGlitch" volume="65" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/GlitchAmerica A" volume="78" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/ClassicUplifter FX" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/Psykodelayck One" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/RetroLead" volume="58" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Keys/Pinano" volume="32" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Sequence/Uppson" volume="68" is_active="true" />
+			</channels>
+			<effects />
+			<chord_sequence>aaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="8" name="stop (2)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Booking" volume="79" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Chipsounds/JiveGlitch" volume="46" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/GlitchAmerica A" volume="78" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/ClassicUplifter FX" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/Psykodelayck One" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/RetroLead" volume="58" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Keys/Pinano" volume="19" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Sequence/Uppson" volume="49" is_active="true" />
+			</channels>
+			<effects />
+			<chord_sequence>aaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="8" name="stop (3)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Booking" volume="79" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Chipsounds/JiveGlitch" volume="25" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/GlitchAmerica A" volume="78" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/ClassicUplifter FX" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/Psykodelayck One" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/RetroLead" volume="58" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Keys/Pinano" volume="6" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Sequence/Uppson" volume="32" is_active="true" />
+			</channels>
+			<effects />
+			<chord_sequence>aaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="8" name="stop (4)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Booking" volume="79" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Chipsounds/JiveGlitch" volume="7" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/GlitchAmerica A" volume="78" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/ClassicUplifter FX" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/Psykodelayck One" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/RetroLead" volume="58" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Keys/Pinano" volume="0" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Sequence/Uppson" volume="20" is_active="true" />
+			</channels>
+			<effects />
+			<chord_sequence>aaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="4" name="stop (5)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_House_Lite/Bass/Booking" volume="79" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Chipsounds/JiveGlitch" volume="0" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/GlitchAmerica A" volume="78" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Fx/ClassicUplifter FX" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Glitches/Psykodelayck One" volume="100" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Lead/RetroLead" volume="58" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Keys/Pinano" volume="0" is_active="false" />
+				<channel loop="mmj://styles/id/ST_House_Lite/Sequence/Uppson" volume="8" is_active="true" />
+			</channels>
+			<effects />
+			<chord_sequence>aaaa</chord_sequence>
+		</part>
+	</parts>
+</project>

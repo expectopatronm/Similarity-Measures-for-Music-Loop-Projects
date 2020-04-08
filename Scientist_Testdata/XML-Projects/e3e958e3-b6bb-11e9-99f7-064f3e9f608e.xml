@@ -1,0 +1,345 @@
+<?xml version="1.0"?>
+<project volume="92" bpm="120" cut_mode="Beat">
+	<used_chords>CdeFGaa#</used_chords>
+	<user_loops />
+	<parts selected_index="25">
+		<part pitch="0" length_in_beats="16" name="A">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Hi Fly Wave" volume="92" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Circular Fury A" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit L" volume="95" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit I" volume="90" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Sub Rub" volume="99" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Digital HHGroove" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Kik Build" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Tribal House A" volume="81" is_active="true" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (1)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Hi Fly Wave" volume="92" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Circular Fury A" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit L" volume="95" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit I" volume="90" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Sub Rub" volume="99" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Digital HHGroove" volume="97" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Kik Build" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Tribal House A" volume="90" is_active="true" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (2)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Hi Fly Wave" volume="92" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Circular Fury A" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit L" volume="95" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit I" volume="90" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Sub Rub" volume="99" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Digital HHGroove" volume="95" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Kik Build" volume="49" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Tribal House A" volume="81" is_active="true" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (3)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Hi Fly Wave" volume="92" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Circular Fury A" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit L" volume="95" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit I" volume="90" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Sub Rub" volume="40" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Digital HHGroove" volume="95" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Kik Build" volume="96" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Tribal House A" volume="81" is_active="true" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="8" name="A (4)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Hi Fly Wave" volume="92" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Circular Fury A" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit L" volume="95" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit I" volume="90" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Sub Rub" volume="40" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Digital HHGroove" volume="95" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Kik Build" volume="96" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Tribal House A" volume="81" is_active="true" />
+			</channels>
+			<chord_sequence>aaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (5)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Hi Fly Wave" volume="92" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Circular Fury A" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit L" volume="95" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit I" volume="90" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Sub Rub" volume="98" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Digital HHGroove" volume="95" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Kik Build" volume="96" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Tribal House A" volume="81" is_active="true" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (6)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Hi Fly Wave" volume="92" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Circular Fury A" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit L" volume="95" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit I" volume="90" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Sub Rub" volume="98" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Digital HHGroove" volume="95" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Kik Build" volume="96" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Tribal House A" volume="81" is_active="true" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (7)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Hi Fly Wave" volume="92" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Circular Fury A" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit L" volume="95" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit I" volume="90" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Sub Rub" volume="98" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Digital HHGroove" volume="95" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Kik Build" volume="96" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Tribal House A" volume="81" is_active="true" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (8)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Hi Fly Wave" volume="92" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Circular Fury A" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit L" volume="95" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit I" volume="90" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Sub Rub" volume="98" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Digital HHGroove" volume="95" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Kik Build" volume="96" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Tribal House A" volume="81" is_active="true" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (9)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Hi Fly Wave" volume="92" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Circular Fury A" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit L" volume="95" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit I" volume="90" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Sub Rub" volume="98" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Digital HHGroove" volume="95" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Kik Build" volume="96" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Tribal House A" volume="81" is_active="true" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (10)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Hi Fly Wave" volume="92" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Circular Fury A" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit L" volume="95" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit I" volume="90" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Sub Rub" volume="98" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Digital HHGroove" volume="95" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Kik Build" volume="96" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Tribal House A" volume="81" is_active="true" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (11)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Hi Fly Wave" volume="92" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Circular Fury A" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit L" volume="95" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit I" volume="90" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Sub Rub" volume="98" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Digital HHGroove" volume="73" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Kik Build" volume="96" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Tribal House A" volume="81" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (12)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Hi Fly Wave" volume="92" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Circular Fury A" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit L" volume="95" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit I" volume="90" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Boom Room B" volume="98" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Digital HHGroove" volume="73" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Kik Build" volume="96" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Tribal House A" volume="81" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (13)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Hi Fly Wave" volume="92" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Circular Fury A" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit L" volume="95" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit I" volume="90" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Boom Room B" volume="98" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Digital HHGroove" volume="73" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Kik Build" volume="96" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Tribal House A" volume="81" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (14)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Hi Fly Wave" volume="92" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Circular Fury A" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit L" volume="95" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit I" volume="90" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Boom Room B" volume="98" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Digital HHGroove" volume="73" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Kik Build" volume="96" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Tribal House A" volume="81" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (15)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Hi Fly Wave" volume="92" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Circular Fury A" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Build A" volume="95" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Build B" volume="90" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Boom Room B" volume="98" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Digital HHGroove" volume="73" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Kik Build" volume="96" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly End Game" volume="81" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (16)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Hi Fly Wave" volume="92" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Circular Fury A" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Build A" volume="95" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Build B" volume="90" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Boom Room B" volume="98" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Digital HHGroove" volume="73" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Kik Build" volume="96" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly End Game" volume="81" is_active="false" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (17)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Hi Fly Wave" volume="92" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Circular Fury A" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Build A" volume="95" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Build B" volume="90" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Boom Room B" volume="98" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Digital HHGroove" volume="73" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Kik Build" volume="96" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly End Game" volume="100" is_active="true" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (18)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Hi Fly Wave" volume="92" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Circular Fury A" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Build A" volume="95" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Build B" volume="90" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Boom Room B" volume="98" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Digital HHGroove" volume="73" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Kik Build" volume="96" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly End Game" volume="100" is_active="true" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (19)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Hi Fly Wave" volume="92" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Circular Fury A" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Build A" volume="95" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Build B" volume="90" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Boom Room B" volume="98" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Digital HHGroove" volume="73" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Kik Build" volume="96" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly End Game" volume="100" is_active="true" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (20)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Hi Fly Wave" volume="92" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Circular Fury A" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Build A" volume="95" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Build B" volume="90" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Boom Room B" volume="98" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Digital HHGroove" volume="73" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Kik Build" volume="96" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly End Game" volume="100" is_active="true" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (21)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Hi Fly Wave" volume="92" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Circular Fury A" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Build A" volume="95" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Build B" volume="90" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Boom Room B" volume="98" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Digital HHGroove" volume="73" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Kik Build" volume="96" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly End Game" volume="100" is_active="true" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (22)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Hi Fly Wave" volume="92" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Circular Fury A" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Build A" volume="95" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Build B" volume="90" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Boom Room B" volume="98" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Digital HHGroove" volume="73" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Kik Build" volume="96" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly End Game" volume="100" is_active="true" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (23)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Hi Fly Wave" volume="92" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Circular Fury A" volume="50" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Build A" volume="95" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Build B" volume="90" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Boom Room B" volume="98" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Digital HHGroove" volume="73" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Kik Build" volume="96" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly End Game" volume="100" is_active="true" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="A (24)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Hi Fly Wave" volume="92" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Circular Fury A" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Build A" volume="95" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Build B" volume="90" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Boom Room B" volume="98" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Digital HHGroove" volume="73" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Kik Build" volume="96" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly End Game" volume="100" is_active="true" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="A (25)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Hi Fly Wave" volume="92" is_active="false" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Circular Fury A" volume="50" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Build A" volume="95" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Build B" volume="90" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Boom Room B" volume="98" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Digital HHGroove" volume="73" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Kik Build" volume="96" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly End Game" volume="100" is_active="true" />
+			</channels>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+	</parts>
+</project>

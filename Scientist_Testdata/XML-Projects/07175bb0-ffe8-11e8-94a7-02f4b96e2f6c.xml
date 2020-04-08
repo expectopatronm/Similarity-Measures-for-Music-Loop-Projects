@@ -1,0 +1,279 @@
+<?xml version="1.0"?>
+<project volume="100" bpm="120" cut_mode="Beat">
+	<used_chords>aa#CdeFG</used_chords>
+	<user_loops />
+	<parts selected_index="16">
+		<part pitch="0" length_in_beats="32" name="B">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Knarz Hook" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Build A" volume="100" is_active="true" />
+				<channel loop="" volume="100" is_active="false" />
+				<channel loop="" volume="100" is_active="false" />
+				<channel loop="" volume="100" is_active="false" />
+				<channel loop="" volume="100" is_active="false" />
+				<channel loop="" volume="100" is_active="false" />
+				<channel loop="" volume="100" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">0000000000D0364600000040</effect>
+			</effects>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="B (1)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Knarz Hook" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit F" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Middle Ground" volume="100" is_active="true" />
+				<channel loop="" volume="100" is_active="false" />
+				<channel loop="" volume="100" is_active="false" />
+				<channel loop="" volume="100" is_active="false" />
+				<channel loop="" volume="100" is_active="false" />
+				<channel loop="" volume="100" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">0000000000D0364600000040</effect>
+			</effects>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="B (2)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Knarz Hook" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit F" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Middle Ground" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Kik Build" volume="100" is_active="true" />
+				<channel loop="" volume="100" is_active="false" />
+				<channel loop="" volume="100" is_active="false" />
+				<channel loop="" volume="100" is_active="false" />
+				<channel loop="" volume="100" is_active="false" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">0000000000D0364600000040</effect>
+			</effects>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="B (3)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Knarz Hook" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit F" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Middle Ground" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Kik Build" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Dark Rezo A" volume="55" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Tail" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit D" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit J" volume="100" is_active="true" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">0000000000D0364600000040</effect>
+			</effects>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="B (4)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Knarz Hook" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit F" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Pluck Verseline" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Kik Build" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Dark Rezo A" volume="55" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Tail" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit D" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit J" volume="100" is_active="true" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">0000000000D0364600000040</effect>
+			</effects>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="B (5)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Knarz Hook" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit F" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Pluck Verseline" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Kik Build" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Dark Rezo A" volume="55" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Circular Fury A" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit D" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit J" volume="100" is_active="true" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">0000000000D0364600000040</effect>
+			</effects>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="B (6)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Knarz Hook" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit F" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Pluck Verseline" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Kik Build" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Dark Rezo A" volume="55" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Vocal FX/Eerie Angel B" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit D" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit J" volume="100" is_active="true" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">0000000000D0364600000040</effect>
+			</effects>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="B (7)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Knarz Hook" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit F" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Pluck Verseline" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Kik Build" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Dark Rezo A" volume="55" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Ruin Marble" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit D" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit J" volume="100" is_active="true" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">0000000000D0364600000040</effect>
+			</effects>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="B (8)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Knarz Hook" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit F" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Pluck Verseline" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Kik Build" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Dark Rezo A" volume="55" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Sting Hookline" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit D" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit J" volume="100" is_active="true" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">0000000000D0364600000040</effect>
+			</effects>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="B (9)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Knarz Hook" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit F" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Pluck Verseline" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Kik Build" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Trippin Spider A" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Sting Hookline" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit D" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit J" volume="100" is_active="true" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">0000000000D0364600000040</effect>
+			</effects>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="B (10)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Knarz Hook" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit F" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Pluck Verseline" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Kik Build" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Organic/Twisted Verseline" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Sting Hookline" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit D" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit J" volume="100" is_active="true" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">0000000000D0364600000040</effect>
+			</effects>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="B (11)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Knarz Hook" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit F" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Pluck Verseline" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Kik Build" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/SchuffleSnuff E" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Sting Hookline" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit D" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit J" volume="100" is_active="true" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">0000000000D0364600000040</effect>
+			</effects>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="32" name="B (12)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Knarz Hook" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit L" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Pluck Verseline" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Kik Build" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/SchuffleSnuff E" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Sting Hookline" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit D" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit J" volume="100" is_active="true" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">0000000000D0364600000040</effect>
+			</effects>
+			<chord_sequence>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="B (13)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Sub Rub" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit L" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Pluck Verseline" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Kik Build" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/SchuffleSnuff E" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Crazy Talkin SpclBld" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit D" volume="100" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit J" volume="100" is_active="true" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">0000000000D0364600000040</effect>
+			</effects>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="B (14)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Sub Rub" volume="0" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit L" volume="70" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Pluck Verseline" volume="59" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Kik Build" volume="71" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/SchuffleSnuff E" volume="66" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Crazy Talkin SpclBld" volume="0" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit D" volume="53" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit J" volume="56" is_active="true" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">0000000000D0364600000040</effect>
+			</effects>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="16" name="B (15)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Sub Rub" volume="56" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit L" volume="0" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Pluck Verseline" volume="55" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Kik Build" volume="61" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/SchuffleSnuff E" volume="46" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Crazy Talkin SpclBld" volume="55" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit D" volume="55" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit J" volume="52" is_active="true" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">0000000000D0364600000040</effect>
+			</effects>
+			<chord_sequence>aaaaaaaaaaaaaaaa</chord_sequence>
+		</part>
+		<part pitch="0" length_in_beats="4" name="B (17)">
+			<channels>
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Bass/Sub Rub" volume="0" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit L" volume="42" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Pluck Verseline" volume="38" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums Singles/Kik Build" volume="0" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Electro_Lite/Drums/SchuffleSnuff E" volume="0" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Synths/Crazy Talkin SpclBld" volume="0" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit D" volume="0" is_active="true" />
+				<channel loop="mmj://styles/id/ST_Loudly_Exclusive/Drums/Loudly Kit J" volume="0" is_active="true" />
+			</channels>
+			<effects>
+				<effect effect="JamFx" length="12" is_active="0">0000000000D0364600000040</effect>
+			</effects>
+			<chord_sequence>aaaa</chord_sequence>
+		</part>
+	</parts>
+</project>
